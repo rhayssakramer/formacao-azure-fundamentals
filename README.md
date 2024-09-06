@@ -3,13 +3,13 @@
 Este repositório corresponde ao Desafio da Bootcamp Microsoft Azure Essentials para fornecer instruções sobre como localizar e acessar por categoria os serviços dentro do portal do Microsoft Azure.
 
 ### Índice
-- [Introdução](https://github.com/rhayssakramer/guiaLocalizadorServicosAzure/main#introdução)
-- [Acessando o Portal do Azure](https://github.com/rhayssakramer/guiaLocalizadorServicosAzure/main#acessando-o-portal-do-azure)
-- [Localizando Serviços por Categoria](https://github.com/rhayssakramer/guiaLocalizadorServicosAzure/main#localizando-serviços-por-categoria)
-    - [Máquinas Virtuais](https://github.com/rhayssakramer/guiaLocalizadorServicosAzure/main#máquinas-virtuais)
-    - [Rede](https://github.com/rhayssakramer/guiaLocalizadorServicosAzure/main#rede)
-    - [Armazenamento](https://github.com/rhayssakramer/guiaLocalizadorServicosAzure/main#armazenamento)
-- [Recursos Adicionais](https://github.com/rhayssakramer/guiaLocalizadorServicosAzure/main#recursos-adicionais)
+- [Introdução](https://github.com/rhayssakramer/guiaLocalizadorServicosAzure/#introdução)
+- [Acessando o Portal do Azure](https://github.com/rhayssakramer/guiaLocalizadorServicosAzure/#acessando-o-portal-do-azure)
+- [Localizando Serviços por Categoria](https://github.com/rhayssakramer/guiaLocalizadorServicosAzure/#localizando-serviços-por-categoria)
+    - [Máquinas Virtuais](https://github.com/rhayssakramer/guiaLocalizadorServicosAzure/#máquinas-virtuais)
+    - [Rede](https://github.com/rhayssakramer/guiaLocalizadorServicosAzure/#rede)
+    - [Armazenamento](https://github.com/rhayssakramer/guiaLocalizadorServicosAzure/#armazenamento)
+- [Recursos Adicionais](https://github.com/rhayssakramer/guiaLocalizadorServicosAzure/#recursos-adicionais)
 
 ### Introdução
 O Microsoft Azure é uma plataforma de nuvem que disponibiliza uma variedade de serviços, distribuídos em várias categorias. Este guia foi elaborado para ajudá-lo a navegar pelo portal do Azure e encontrar facilmente os serviços que você precisa.
