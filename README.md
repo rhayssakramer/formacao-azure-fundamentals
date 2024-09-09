@@ -1,13 +1,13 @@
 ## ☁️ Bootcamp Microsoft Azure Essentials - DIO
 
-Este repositório corresponde aos conteúdos utilizados na Bootcamp Microsoft Azure Essentials. Aqui você irá encontrar meus desafios, recursos e links úteis utilizado para concluir a bootcamp.
+Este repositório corresponde aos conteúdos utilizados na [Bootcamp Microsoft Azure Essentials](https://www.dio.me/bootcamp/microsoft-azure-essentials?ref=AFOXWYVRXGV9). Aqui você irá encontrar meus desafios, projetos, recursos e links úteis utilizados para concluir a bootcamp.
 
-### 🗂️ O que você encontrar aqui?
+### 🗂️ O que você encontrará aqui?
 Este repositório está organizado para armazenar e gerenciar todos os materiais do bootcamp, assim como os desafios, links úteis, estudos e outros recursos.
 
-- 🔍 [Recursos de Estudo:](https://github.com/rhayssakramer/desafios-dio-azure-essentials/recursos-de-estudo) links e materias recomendados para o estudo da Certificação da AZ-900.
-- 💻 [Projetos e Desafios:](https://github.com/rhayssakramer/desafios-dio-azure-essentials/projetos-e-desafios) códigos e exercícios práticos realizados durante o bootcamp.
-- 🔗 [Links Úteis:](https://github.com/rhayssakramer/desafios-dio-azure-essentials/links-úteis) links e artigos para a documentação oficial (Material de grande importância para o exame AZ-900).
+- 🔍 [Recursos de Estudo:](https://github.com/rhayssakramer/desafios-dio-azure-essentials/recursos-de-estudo) links e materiais recomendados para o estudo da Certificação da AZ-900.
+- 💻 [Projetos e Desafios:](https://github.com/rhayssakramer/desafios-dio-azure-essentials/projetos-e-desafios) códigos e exercícios práticos realizados durante a bootcamp.
+- 🔗 [Links Úteis:](https://github.com/rhayssakramer/desafios-dio-azure-essentials/links-úteis) links, artigos e documentação oficial (Material de grande importância para o exame AZ-900).
 
 ### 🔍 Recursos de Estudo
 Aqui você encontrará uma lista de recursos úteis para se preparar para o exame AZ-900:
@@ -38,10 +38,10 @@ Veja os projetos e desafios que completei durante o bootcamp:
 - [Site da Bootcamp Microsoft Azure Essentials](https://www.dio.me/bootcamp/microsoft-azure-essentials?ref=AFOXWYVRXGV9)
 
 ## ▶️ Conclusão
-Este guia serve como repositório de estudos, desafios e projetos da Bootcamp Microsoft Azure Essentials. Explore os recursos compartilhados necessário para atender às suas necessidades de nuvem.
+Este guia serve como repositório de estudos, desafios e projetos da Bootcamp Microsoft Azure Essentials. Explore os recursos compartilhados necessários para atender às suas necessidades de nuvem.
 
 ## 🔗 Créditos
-Este positório foi desenvolvido como guia de estudos da [Bootcamp Microsoft Azure Essentials da DIO](https://www.dio.me/bootcamp/microsoft-azure-essentials?ref=AFOXWYVRXGV9), para avaliar o ensinado na bootcamp sobre Azure com finalidade de obter Certificação AZ-900.
+Este repositório foi desenvolvido como guia de estudos da [Bootcamp Microsoft Azure Essentials da DIO](https://www.dio.me/bootcamp/microsoft-azure-essentials?ref=AFOXWYVRXGV9), para avaliar o ensinado na bootcamp sobre Azure com finalidade de obter Certificação AZ-900.
 
 *Nota: Este projeto é apenas para fins educacionais e não possui nenhuma afiliação oficial com a franquia DIO ou suas empresas associadas.*
 
