@@ -40,7 +40,7 @@ Veja os projetos e desafios que completei durante o bootcamp:
 Este guia serve como repositório de estudos, desafios e projetos da Bootcamp Microsoft Azure Essentials. Explore os recursos compartilhados necessário para atender às suas necessidades de nuvem.
 
 ## 🔗 Créditos
-Este projeto foi desenvolvido como parte de Desafio de Projeto da [Bootcamp Microsoft Azure Essentials da DIO](https://www.dio.me/bootcamp/microsoft-azure-essentials?ref=AFOXWYVRXGV9), para avaliar o ensinado no curso de Conceito Iniciais de Cloud com Azure.
+Este positório foi desenvolvido como guia de estudos da [Bootcamp Microsoft Azure Essentials da DIO](https://www.dio.me/bootcamp/microsoft-azure-essentials?ref=AFOXWYVRXGV9), para avaliar o ensinado na bootcamp sobre Azure com finalidade de obter Certificação AZ-900.
 
 *Nota: Este projeto é apenas para fins educacionais e não possui nenhuma afiliação oficial com a franquia DIO ou suas empresas associadas.*
 
