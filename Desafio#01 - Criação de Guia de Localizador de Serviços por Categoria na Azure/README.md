@@ -20,8 +20,8 @@ O Microsoft Azure é uma plataforma de nuvem que disponibiliza uma variedade de 
 
 ### Localizando Serviços por Categoria
 No Azure, os serviços são classificados em categorias como Computação, Rede, Armazenamento, entre outras. Vamos entender como acessar serviços específicos dentro de cada uma dessas categorias.
-![Tela Inicial do Portal Azure](https://github.com/rhayssakramer/desafios-dio-azure-essentials/blob/main/Desafio%2301%20-%20Cria%C3%A7%C3%A3o%20de%20Guia%20de%20Localizador%20de%20Servi%C3%A7os%20por%20Categoria%20na%20Azure/image1.png)
-![Tela de Serviços do Azure](https://github.com/rhayssakramer/desafios-dio-azure-essentials/blob/main/Desafio%2301%20-%20Cria%C3%A7%C3%A3o%20de%20Guia%20de%20Localizador%20de%20Servi%C3%A7os%20por%20Categoria%20na%20Azure/image2.png)
+![Tela Inicial do Portal Azure](https://github.com/rhayssakramer/desafios-dio-azure-essentials/blob/main/Desafio%2301%20-%20Cria%C3%A7%C3%A3o%20de%20Guia%20de%20Localizador%20de%20Servi%C3%A7os%20por%20Categoria%20na%20Azure/img/imagem1.png)
+![Tela de Serviços do Azure](https://github.com/rhayssakramer/desafios-dio-azure-essentials/blob/main/Desafio%2301%20-%20Cria%C3%A7%C3%A3o%20de%20Guia%20de%20Localizador%20de%20Servi%C3%A7os%20por%20Categoria%20na%20Azure/img/imagem2.png)
 
 #### Máquinas Virtuais
 As Máquinas Virtuais (VMs) são um dos serviços mais utilizados no Azure, permitindo que você crie e gerencie máquinas virtuais em nuvem.
