@@ -15,8 +15,7 @@ Aqui você encontrará uma lista de recursos úteis para se preparar para o exam
 - Link para o material oficial do Azure
 - Guia de Estudos
 
-💻 Projetos e Desafios  
-
+### 💻 Projetos e Desafios  
 Veja os projetos e desafios que completei durante o bootcamp:
 - [Desafio 1: Localizador de Serviços por Categoria](https://github.com/rhayssakramer/desafios-dio-azure-essentials/tree/main/Desafio%2301%20-%20Cria%C3%A7%C3%A3o%20de%20Guia%20de%20Localizador%20de%20Servi%C3%A7os%20por%20Categoria%20na%20Azure)
 - [Desafio 2: Criação de VM em Azure](https://github.com/rhayssakramer/desafios-dio-azure-essentials/tree/main/Desafio%2302%20-%20Cria%C3%A7%C3%A3o%20de%20VM%20em%20Azure)
@@ -37,7 +36,7 @@ Veja os projetos e desafios que completei durante o bootcamp:
 - [Curso no Microsoft Learn do AZ-900](https://learn.microsoft.com/pt-br/training/courses/az-900t00)
 - [Site da Bootcamp Microsoft Azure Essentials](https://www.dio.me/bootcamp/microsoft-azure-essentials?ref=AFOXWYVRXGV9)
 
-### ▶️ Conclusão
+## ▶️ Conclusão
 Este guia serve como repositório de estudos, desafios e projetos da Bootcamp Microsoft Azure Essentials. Explore os recursos compartilhados necessário para atender às suas necessidades de nuvem.
 
 ## 🔗 Créditos
