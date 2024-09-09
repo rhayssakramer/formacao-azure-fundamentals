@@ -5,15 +5,16 @@ Este repositório corresponde aos conteúdos utilizados na Bootcamp Microsoft Az
 ### 🗂️ O que você encontrar aqui?
 Este repositório está organizado para armazenar e gerenciar todos os materiais do bootcamp, assim como os desafios, links úteis, estudos e outros recursos.
 
-- 📚 Recursos de Estudo: links e materias recomendados para o estudo da Certificação da AZ-900.
-- 💻 Projetos e Desafios: códigos e exercícios práticos realizados durante o bootcamp.
-- 🔗 Link Úteis: links e artigos para a documentação oficial (Material de grande importância para o exame AZ-900).
+- 🔍 [Recursos de Estudo:](https://github.com/rhayssakramer/desafios-dio-azure-essentials/recursos-de-estudo) links e materias recomendados para o estudo da Certificação da AZ-900.
+- 💻 [Projetos e Desafios:](https://github.com/rhayssakramer/desafios-dio-azure-essentials/projetos-e-desafios) códigos e exercícios práticos realizados durante o bootcamp.
+- 🔗 [Links Úteis:](https://github.com/rhayssakramer/desafios-dio-azure-essentials/links-úteis) links e artigos para a documentação oficial (Material de grande importância para o exame AZ-900).
 
 ### 🔍 Recursos de Estudo
 Aqui você encontrará uma lista de recursos úteis para se preparar para o exame AZ-900:
 
-- Link para o material oficial do Azure
-- Guia de Estudos
+- [Artigo sobre o Exame AZ-900](https://medium.com/@shalinds/my-two-week-journey-to-passing-the-az-900-exam-122f5f1e3732)
+- [Curso gratuito para Certificação AZ-900](https://www.youtube.com/playlist?list=PL_yq9hmeKAk_rUvgo0KECZYI1bKzcyncC)
+- [Material de Estudo](https://www.youtube.com/watch?v=h5PNYnwApkM&list=PL_yq9hmeKAk_rUvgo0KECZYI1bKzcyncC&index=1)
 
 ### 💻 Projetos e Desafios  
 Veja os projetos e desafios que completei durante o bootcamp:
