@@ -1,6 +1,6 @@
 ## ☁️ Bootcamp Microsoft Azure Essentials - DIO
 
-Este repositório corresponde ao Desafios da Bootcamp Microsoft Azure Essentials. Aqui você irá encontrar meus desafios, recursos e links úteis utilizado para concluir a bootcamp.
+Este repositório corresponde aos conteúdos utilizados da Bootcamp Microsoft Azure Essentials. Aqui você irá encontrar meus desafios, recursos e links úteis utilizado para concluir a bootcamp.
 
 ### 🗂️ O que você encontrar aqui?
 Este repositório está organizado para armazenar e gerenciar todos os materiais do bootcamp, assim como os desafios, links úteis, estudos e outros recursos.
