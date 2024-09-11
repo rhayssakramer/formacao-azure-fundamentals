@@ -20,7 +20,7 @@ Aqui você encontrará uma lista de recursos úteis para se preparar para o exam
 Veja os projetos e desafios que completei durante o bootcamp:
 - [Desafio 1: Localizador de Serviços por Categoria](https://github.com/rhayssakramer/desafios-dio-azure-essentials/tree/main/Desafio%2301%20-%20Cria%C3%A7%C3%A3o%20de%20Guia%20de%20Localizador%20de%20Servi%C3%A7os%20por%20Categoria%20na%20Azure)
 - [Desafio 2: Criação de VM em Azure](https://github.com/rhayssakramer/desafios-dio-azure-essentials/tree/main/Desafio%2302%20-%20Cria%C3%A7%C3%A3o%20de%20VM%20em%20Azure)
-- Desafio 3: Configurando uma instância de Banco de Dados na Azure
+- [Desafio 3: Configurando uma instância de Banco de Dados na Azure](https://github.com/rhayssakramer/desafios-dio-azure-essentials/tree/main/Desagio%2303%20-%20Configurando%20uma%20inst%C3%A2ncia%20de%20Banco%20de%20Dados%20na%20Azure)
 - Desafio 4: Criação de Infraestrutura no Azure
 - Desafio 5: Configurando Recursos
 - Desafio 6: Dominando Armazenamento Azure
