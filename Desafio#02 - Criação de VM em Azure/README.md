@@ -1,6 +1,6 @@
 ## 🖥️ Guia de Criação de Máquina Virtual em Azure
 
-Este repositório corresponde ao Desafio da Bootcamp Microsoft Azure Essentials para fornecer instruções sobre como criar uma máquina virtual dentro do portal do Microsoft Azure.
+Este repositório corresponde ao Desafio #02 da Bootcamp Microsoft Azure Essentials para fornecer instruções sobre como criar uma máquina virtual dentro do portal do Microsoft Azure.
 
 ### 1. Acesse o Portal do Azure 🌐
 Primeiro, faça seu cadastro e depois login no [Portal do Azure](https://portal.azure.com/). É onde você vai gerenciar todos os seus recursos.
