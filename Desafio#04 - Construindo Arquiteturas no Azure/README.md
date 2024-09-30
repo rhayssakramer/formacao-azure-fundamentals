@@ -9,19 +9,19 @@ Se você ainda não tem uma conta no Azure, você vai precisar de uma! Visite o 
 ### 2. Criação do Grupo de Recursos📁
 
 Depois de fazer login no portal, vá até o painel principal e pesquise por `Grupos de Recursos` ou `Resource Groups` na barra de pesquisa e Clique em `Criar`para iniciar a criação de um novo grupo de recursos.
-![Imagem 1](/img/img1.png)
-![Imagem 2](/img/img2.png)
+![Imagem 1](https://github.com/rhayssakramer/desafios-dio-azure-essentials/blob/main/Desafio%2304%20-%20Construindo%20Arquiteturas%20no%20Azure/img/img1.png)
+![Imagem 2](https://github.com/rhayssakramer/desafios-dio-azure-essentials/blob/main/Desafio%2304%20-%20Construindo%20Arquiteturas%20no%20Azure/img/img2.png)
 
 - **Preencha as seguintes informações:**  
 **Nome do Grupo de Recursos:** Dê um nome que identifique facilmente o grupo e seu propósito.  
 **Região:** Selecione a região onde o grupo será criado. É recomendado escolher a mesma região para todos os recursos relacionados para reduzir a latência e os custos.  
 - Clique em `Revisar + Criar` e depois em `Criar`.
-![Imagem 3](/img/img3.png)
+![Imagem 3](https://github.com/rhayssakramer/desafios-dio-azure-essentials/blob/main/Desafio%2304%20-%20Construindo%20Arquiteturas%20no%20Azure/img/img3.png)
 
 ### 3. Criação da Rede Virtual 🛜
 No painel do Azure, busque por `Redes Virtuais` ou `Virtual Networks`. Clique em `Criar` para iniciar a configuração de uma nova rede virtual.
-![Imagem 4](/img/img4.png)
-![Imagem 5](/img/img5.png)
+![Imagem 4](https://github.com/rhayssakramer/desafios-dio-azure-essentials/blob/main/Desafio%2304%20-%20Construindo%20Arquiteturas%20no%20Azure/img/img4.png)
+![Imagem 5](https://github.com/rhayssakramer/desafios-dio-azure-essentials/blob/main/Desafio%2304%20-%20Construindo%20Arquiteturas%20no%20Azure/img/img5.png)
 
 - **Preencha os detalhes:**    
 **Nome da Rede Virtual:** Escolha um nome que facilite a identificação da rede.  
@@ -29,8 +29,8 @@ No painel do Azure, busque por `Redes Virtuais` ou `Virtual Networks`. Clique em
 **Região:** Escolha a mesma região do grupo de recursos.  
 **Endereço IP:** Defina o intervalo de endereços IP para a rede virtual.  
 - Clique em `Revisar + Criar` e depois em `Criar`.
-![Imagem 6](/img/img6.png)
-![Imagem 7](/img/img7.png)
+![Imagem 6](https://github.com/rhayssakramer/desafios-dio-azure-essentials/blob/main/Desafio%2304%20-%20Construindo%20Arquiteturas%20no%20Azure/img/img6.png)
+![Imagem 7](https://github.com/rhayssakramer/desafios-dio-azure-essentials/blob/main/Desafio%2304%20-%20Construindo%20Arquiteturas%20no%20Azure/img/img7.png)
 
 ### 4. Boas Práticas em Segurança no Azure
 
