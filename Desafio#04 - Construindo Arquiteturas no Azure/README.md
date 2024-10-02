@@ -1,4 +1,4 @@
-## Construindo Arquiteturas no Azure ⚙️
+## ⚙️ Construindo Arquiteturas no Azure
 
 Este repositório corresponde ao Desafio #04 da Bootcamp Microsoft Azure Essentials para fornecer instruções sobre como criar Arquiteturas dentro do portal do Microsoft Azure.
 
