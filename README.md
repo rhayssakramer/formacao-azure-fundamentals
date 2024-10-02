@@ -23,7 +23,7 @@ Veja os projetos e desafios que completei durante o bootcamp:
 - [Desafio 3: Configurando uma instância de Banco de Dados na Azure](https://github.com/rhayssakramer/desafios-dio-azure-essentials/tree/main/Desafio%2303%20-%20Configurando%20uma%20inst%C3%A2ncia%20de%20Banco%20de%20Dados%20na%20Azure)
 - [Desafio 4: Criação de Infraestrutura no Azure](https://github.com/rhayssakramer/desafios-dio-azure-essentials/tree/main/Desafio%2304%20-%20Construindo%20Arquiteturas%20no%20Azure)
 - [Desafio 5: Configurando Recursos no Azure](https://github.com/rhayssakramer/desafios-dio-azure-essentials/tree/main/Desafio%2305%20-%20Configurando%20Recursos%20no%20Azure)
-- Desafio 6: Dominando Armazenamento Azure
+- [Desafio 6: Dominando Armazenamento Azure](https://github.com/rhayssakramer/desafios-dio-azure-essentials/tree/main/Desafio%2306%20-%20Dominando%20Armazenamento%20no%20Azure)
 - Desafio 7: Acesso | Microsoft Entra ID | Defender for Cloud
 - Desafio 8: Otimizando Custos no Azure
 - Desafio 9: Gerenciando Políticas | Azure
