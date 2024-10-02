@@ -7,8 +7,8 @@ Se você ainda não tem uma conta no Azure, você vai precisar de uma! Visite o 
 
 ### 2. Navegue até o Portal do Azure
 Depois de fazer login no portal, vá até o painel principal e pesquise por `SQL Database` na barra de pesquisa ou clique em `Criar um recurso` e depois em `Banco de Dados`.
-![Imagem 1](https://github.com/rhayssakramer/desafios-dio-azure-essentials/blob/main/Desagio%2303%20-%20Configurando%20uma%20inst%C3%A2ncia%20de%20Banco%20de%20Dados%20na%20Azure/img/Imagem1.png)
-![Imagem 2](https://github.com/rhayssakramer/desafios-dio-azure-essentials/blob/main/Desagio%2303%20-%20Configurando%20uma%20inst%C3%A2ncia%20de%20Banco%20de%20Dados%20na%20Azure/img/Imagem%202.png)
+![Imagem 1](https://github.com/rhayssakramer/desafios-dio-azure-essentials/blob/main/Desafio%2303%20-%20Configurando%20uma%20inst%C3%A2ncia%20de%20Banco%20de%20Dados%20na%20Azure/img/Imagem1.png)
+![Imagem 2](https://github.com/rhayssakramer/desafios-dio-azure-essentials/blob/main/Desafio%2303%20-%20Configurando%20uma%20inst%C3%A2ncia%20de%20Banco%20de%20Dados%20na%20Azure/img/Imagem%202.png)
 
 ### 3. Crie um Novo Banco de Dados
 Clique em `Criar`, isso iniciará o assistente de criação do banco de dados.  
@@ -19,8 +19,8 @@ Clique em `Criar`, isso iniciará o assistente de criação do banco de dados.
 **Grupo de Recursos:** Crie um novo grupo ou use um existente.
 **Servidor:** Crie um novo servidor ou selecione um já existente. Se você está criando um novo, preencha o nome do servidor, localização e credenciais de administrador.
 
-![Imagem 3](https://github.com/rhayssakramer/desafios-dio-azure-essentials/blob/main/Desagio%2303%20-%20Configurando%20uma%20inst%C3%A2ncia%20de%20Banco%20de%20Dados%20na%20Azure/img/Imagem%203.png)
-![Imagem 4](https://github.com/rhayssakramer/desafios-dio-azure-essentials/blob/main/Desagio%2303%20-%20Configurando%20uma%20inst%C3%A2ncia%20de%20Banco%20de%20Dados%20na%20Azure/img/Imagem%204.png)
+![Imagem 3](https://github.com/rhayssakramer/desafios-dio-azure-essentials/blob/main/Desafio%2303%20-%20Configurando%20uma%20inst%C3%A2ncia%20de%20Banco%20de%20Dados%20na%20Azure/img/Imagem%203.png)
+![Imagem 4](https://github.com/rhayssakramer/desafios-dio-azure-essentials/blob/main/Desafio%2303%20-%20Configurando%20uma%20inst%C3%A2ncia%20de%20Banco%20de%20Dados%20na%20Azure/img/Imagem%204.png)
 
 ### 4. Configurações de Banco de Dados
 Escolha o tipo de banco de dados que deseja usar. O Azure oferece opções como SQL Database entre outros. Aqui, vamos criar um `SQL Database`.
