@@ -6,7 +6,7 @@ Este repositório corresponde aos conteúdos utilizados na [Bootcamp Microsoft A
 Este repositório está organizado para armazenar e gerenciar todos os materiais do bootcamp, assim como os desafios, links úteis, estudos e outros recursos.
 
 - 🔍 [Recursos de Estudo:](https://github.com/rhayssakramer/desafios-dio-azure-essentials/recursos-de-estudo) links e materiais recomendados para o estudo da Certificação da AZ-900.
-- 💻 [Projetos e Desafios:](https://github.com/rhayssakramer/desafios-dio-azure-essentials/projetos-e-desafios) códigos e exercícios práticos realizados durante a bootcamp.
+- 💻 [Projetos e Desafios:](https://github.com/rhayssakramer/desafios-dio-azure-essentials/tree/main/Desafios-de-modulo/Modulo%2303) códigos e exercícios práticos realizados durante a bootcamp.
 - 🔗 [Links Úteis:](https://github.com/rhayssakramer/desafios-dio-azure-essentials/links-úteis) links, artigos e documentação oficial (Material de grande importância para o exame AZ-900).
 
 ### 🔍 Recursos de Estudo
