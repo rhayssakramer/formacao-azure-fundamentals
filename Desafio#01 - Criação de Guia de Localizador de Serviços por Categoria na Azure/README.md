@@ -1,6 +1,6 @@
 ## 🔍 Guia de Localização por Categoria de Serviços do Microsoft Azure
 
-Este repositório corresponde ao Desafio #01 da Bootcamp Microsoft Azure Essentials para fornecer instruções sobre como localizar e acessar por categoria os serviços dentro do portal do Microsoft Azure.
+Este repositório corresponde ao Desafio #01 da Bootcamp Microsoft Azure Essentials para fornecer instruções sobre como localizar e acessar por categoria os serviços dentro do portal do Microsoft Azure. 
 
 ### Índice
 - [Introdução](https://github.com/rhayssakramer/guiaLocalizadorServicosAzure/#introdução)
