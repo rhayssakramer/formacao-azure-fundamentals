@@ -1,6 +1,6 @@
 ## ⚙️ Dominando Armazenamento no Azure
 
-Este repositório corresponde ao Desafio #06 da Bootcamp Microsoft Azure Essentials para fornecer instruções sobre como criar Arquiteturas dentro do portal do Microsoft Azure.
+Este repositório corresponde ao Desafio #06 da Bootcamp Microsoft Azure Essentials para fornecer instruções sobre como configurar `Contas de Armazenamento` dentro do portal do Microsoft Azure.
 
 ### 1. Faça login na sua Conta no Azure ▶️
 
