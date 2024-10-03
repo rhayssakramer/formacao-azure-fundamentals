@@ -1,4 +1,4 @@
-## 🖥️ Guia de Criação de Máquina Virtual em Azure
+## 🖥️ Guia de Criação de Máquina Virtual em Azure 
 
 Este repositório corresponde ao Desafio #02 da Bootcamp Microsoft Azure Essentials para fornecer instruções sobre como criar uma máquina virtual dentro do portal do Microsoft Azure.
 
