@@ -1,6 +1,6 @@
 ## ⚙️ Configurando Recursos no Azure
 
-Este repositório corresponde ao Desafio #05 da Bootcamp Microsoft Azure Essentials para fornecer instruções sobre como criar Arquiteturas dentro do portal do Microsoft Azure.
+Este repositório corresponde ao Desafio #05 da Bootcamp Microsoft Azure Essentials para fornecer instruções sobre como configurar recursos dentro do portal do Microsoft Azure.
 
 ### 1. Faça login na sua Conta no Azure ▶️
 
