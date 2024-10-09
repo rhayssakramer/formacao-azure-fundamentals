@@ -1,6 +1,6 @@
 ## ⚙️ Dominando Armazenamento no Azure
 
-Este repositório corresponde ao Desafio #06 da Bootcamp Microsoft Azure Essentials para fornecer instruções sobre como configurar `Contas de Armazenamento` dentro do portal do Microsoft Azure.
+Este repositório corresponde ao Desafio #06 da Bootcamp Microsoft Azure Essentials para fornecer instruções sobre como configurar Contas de Armazenamento dentro do portal do Microsoft Azure.
 
 ### 1. Faça login na sua Conta no Azure ▶️
 
@@ -63,7 +63,7 @@ azcopy copy 'caminho/local/do/arquivo' 'https://<sua-conta>.file.core.windows.ne
 **Certifique-se de sempre definir regras de segurança e monitoramento apropriadas para proteger seus recursos e otimizar o gerenciamento de custos.** 
 
 ### ▶️ Conclusão
-Este guia serve como uma introdução básica para criar arquiteturas no Azure. Explore outros recursos conforme necessário para atender às suas necessidades de nuvem.
+Este guia serve como uma introdução básica para fornecer instruções sobre como configurar Contas de Armazenamento dentro do portal do Microsoft Azure. Explore outros recursos conforme necessário para atender às suas necessidades de nuvem.
 
 ### 🗒️ Recursos Adicionais
 - [Documentação Oficial do Microsoft Azure](https://docs.microsoft.com/azure)
