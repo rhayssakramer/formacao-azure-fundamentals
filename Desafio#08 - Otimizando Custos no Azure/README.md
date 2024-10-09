@@ -18,7 +18,7 @@ A [Calculadora de TCO](https://azure.microsoft.com/pt-br/pricing/tco/calculator/
 - **Configure o Cenário no Azure:** adicione as mesmas capacidades no Azure para estimar o custo equivalente. Escolha os serviços e recursos que correspondem aos seus requisitos atuais.
 
 - **Compare os Custos:** a ferramenta fornecerá uma comparação entre o custo atual e o custo estimado na nuvem. Analise os resultados para tomar decisões informadas sobre a migração para o Azure.
-- 
+ 
 ><img src="https://github.com/rhayssakramer/desafios-dio-azure-essentials/blob/main/Desafio%2308%20-%20Otimizando%20Custos%20no%20Azure/img/img6.png" alt="Imagem 6" width="350">  
 ><img src="https://github.com/rhayssakramer/desafios-dio-azure-essentials/blob/main/Desafio%2308%20-%20Otimizando%20Custos%20no%20Azure/img/img7.png" alt="Imagem 7" width="650">  
 ><img src="https://github.com/rhayssakramer/desafios-dio-azure-essentials/blob/main/Desafio%2308%20-%20Otimizando%20Custos%20no%20Azure/img/img8.png" alt="Imagem 8" width="350">
@@ -26,7 +26,7 @@ A [Calculadora de TCO](https://azure.microsoft.com/pt-br/pricing/tco/calculator/
 ### 2. Monitoramento de Custos no Azure 🔍
 O Azure oferece várias ferramentas para monitorar e gerenciar seus custos. Aqui está um guia básico para monitorar seus gastos:
 
-- **Acesse o Portal do Azure:** Faça login no [Portal do Azure](https://portal.azure.com/). Navegue para `Cost Management + Billing`. No menu de navegação à esquerda, selecione `Cost Management + Billing`.
+- **Acesse o Portal do Azure:** faça login no [Portal do Azure](https://portal.azure.com/). Navegue para `Cost Management + Billing`. No menu de navegação à esquerda, selecione `Cost Management + Billing`.
 
 ><img src="https://github.com/rhayssakramer/desafios-dio-azure-essentials/blob/main/Desafio%2308%20-%20Otimizando%20Custos%20no%20Azure/img/img9.png" alt="Imagem 9" width="250">
 
@@ -38,7 +38,7 @@ O Azure oferece várias ferramentas para monitorar e gerenciar seus custos. Aqui
 ### 3. Adicionando uma TAG a um Resource Group 🏷️
 Tags são uma maneira eficaz de organizar e gerenciar recursos no Azure. Siga estes passos para adicionar uma tag a um Resource Group:
 
-- **Acesse o Portal do Azure:** Faça login no [Portal do Azure](https://portal.azure.com/). No menu de navegação à esquerda, selecione `Resource groups`. Escolha o Resource Group ao qual você deseja adicionar uma tag.
+- **Acesse o Portal do Azure:** faça login no [Portal do Azure](https://portal.azure.com/). No menu de navegação à esquerda, selecione `Resource groups`. Escolha o Resource Group ao qual você deseja adicionar uma tag.
 
 - **Edite as Tags:** no menu do Resource Group, selecione `Tags`. Clique em `Adicionar tag`.
 
