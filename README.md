@@ -28,7 +28,7 @@ Veja os projetos e desafios que completei durante o bootcamp:
 - [Desafio 8: Otimizando Custos no Azure](https://github.com/rhayssakramer/desafios-dio-azure-essentials/tree/main/Desafio%2308%20-%20Otimizando%20Custos%20no%20Azure)
 - [Desafio 9: Gerenciando Políticas no Azure](https://github.com/rhayssakramer/desafios-dio-azure-essentials/tree/main/Desafio%2309%20-%20Gerenciando%20Pol%C3%ADticas%20no%20Azure)
 - [Desafio 10: Ferramentas de Implantação no Azure](https://github.com/rhayssakramer/desafios-dio-azure-essentials/tree/main/Desafio%2310%20-%20Ferramentas%20de%20Implanta%C3%A7%C3%A3o%20no%20Azure)
-- Desafio 11: Monitoramento Inteligente | Azure
+- [Desafio 11: Monitoramento Inteligente no Azure](https://github.com/rhayssakramer/desafios-dio-azure-essentials/tree/main/Desafio%2311%20-%20Monitoramento%20Inteligente%20no%20Azure)
 
 ### 🔗 Links Úteis
 - [Portal do Azure](https://portal.azure.com/)
