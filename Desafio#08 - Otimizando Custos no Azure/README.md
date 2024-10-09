@@ -1,4 +1,4 @@
-## ⚙️ Identidade, Acesso e Segurança
+## ⚙️ Otimizando Custos no Azure
 Este repositório corresponde ao Desafio #08 da Bootcamp Microsoft Azure Essentials para fornecer instruções sobre utilizar a Calculadora de TCO do Microsoft Azure.
 
 ### 1. Usando a Calculadora de TCO 🧮
