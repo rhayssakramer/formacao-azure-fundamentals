@@ -96,7 +96,7 @@ Confira todas as configurações e clique em `Criar` e aguarde enquanto o Azure 
 **Certifique-se de sempre definir regras de segurança e monitoramento apropriadas para proteger seus recursos e otimizar o gerenciamento de custos.** 
 
 ### ▶️ Conclusão
-Este guia serve como uma introdução básica para criar arquiteturas no Azure. Explore outros recursos conforme necessário para atender às suas necessidades de nuvem.
+Este guia serve como uma introdução básica para fornecer instruções sobre como configurar recursos dentro do portal do Microsoft Azuree. Explore outros recursos conforme necessário para atender às suas necessidades de nuvem.
 
 ### 🗒️ Recursos Adicionais
 - [Documentação Oficial do Microsoft Azure](https://docs.microsoft.com/azure)

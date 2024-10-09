@@ -2,7 +2,7 @@
 Este repositório corresponde ao Desafio #07 da Bootcamp Microsoft Azure Essentials para fornecer instruções sobre Microsoft Entra ID e Microsoft Defender for Cloud dentro do portal do Microsoft Azure.
 
 ### 1. Faça login na sua Conta no Azure ▶️
-Se você ainda não tem uma conta no Azure, você vai precisar de uma! Visite o Portal do Azure faça seu cadastro gratuitamente e siga o processo para criar uma conta. Após o cadastro, faça login com sua conta no Portal.
+Se você ainda não tem uma conta no Azure, você vai precisar de uma! Visite o [Portal do Azure](https://portal.azure.com/) faça seu cadastro gratuitamente e siga o processo para criar uma conta. Após o cadastro, faça login com sua conta no Portal.
 
 ### 2. Explore o Microsoft Entra ID 🔍
 O Microsoft Entra ID (anteriormente conhecido como Azure Active Directory) é um serviço de identidade e gerenciamento de acesso baseado na nuvem que ajuda a proteger e gerenciar o acesso aos recursos da sua organização.
@@ -62,7 +62,7 @@ O Microsoft Defender for Cloud é uma solução de monitoramento e segurança qu
 **Certifique-se de sempre definir regras de segurança e monitoramento apropriadas para proteger seus recursos e otimizar o gerenciamento de custos.** 
 
 ### ▶️ Conclusão
-Este guia serve como uma introdução básica para criar arquiteturas no Azure. Explore outros recursos conforme necessário para atender às suas necessidades de nuvem.
+Este guia serve como uma introdução básica para fornecer instruções sobre Microsoft Entra ID e Microsoft Defender for Cloud dentro do portal do Microsoft Azure. Explore outros recursos conforme necessário para atender às suas necessidades de nuvem.
 
 ### 🗒️ Recursos Adicionais
 - [Documentação Oficial do Microsoft Azure](https://docs.microsoft.com/azure)
