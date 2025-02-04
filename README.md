@@ -37,6 +37,7 @@ Veja os projetos e desafios que completei durante o bootcamp e a formação:
 - [Tutoriais de Introdução ao Azure](https://docs.microsoft.com/learn/paths/azure-fundamentals/)
 - [Curso no Microsoft Learn do AZ-900](https://learn.microsoft.com/pt-br/training/courses/az-900t00)
 - [Site da Bootcamp Microsoft Azure Essentials](https://www.dio.me/bootcamp/microsoft-azure-essentials?ref=AFOXWYVRXGV9)
+- [Site da Formação Microsoft AZ-900 Certification](https://web.dio.me/track/formacao-microsoft-az-900-certification)
 
 ## ▶️ Conclusão
 Este guia serve como repositório de estudos, desafios e projetos da Bootcamp Microsoft Azure Essentials e da Formação Microsoft AZ-900 Certification. Explore os recursos compartilhados necessários para atender às suas necessidades de nuvem.
