@@ -5,7 +5,7 @@ Este repositório corresponde ao compliado de conteúdos utilizados na [Bootcamp
 ### 🗂️ O que você encontrará aqui?
 Este repositório está organizado para armazenar e gerenciar todos os materiais do bootcamp e da formação, assim como os desafios, links úteis, estudos e outros recursos.
 
-- 🔍 [Recursos de Estudo:](https://github.com/rhayssakramer/formacao-azure-fundamentals?tab=readme-ov-file#-projetos-e-desafios) links e materiais recomendados para o estudo da Certificação da AZ-900.
+- 🔍 [Recursos de Estudo:](https://github.com/rhayssakramer/formacao-azure-fundamentals/tree/main?tab=readme-ov-file#-recursos-de-estudo) links e materiais recomendados para o estudo da Certificação da AZ-900.
 - 💻 [Projetos e Desafios:](https://github.com/rhayssakramer/formacao-azure-fundamentals?tab=readme-ov-file#-projetos-e-desafios) códigos e exercícios práticos realizados durante a bootcamp.
 - 🔗 [Links Úteis:](https://github.com/rhayssakramer/formacao-azure-fundamentals?tab=readme-ov-file#-links-%C3%BAteis) links, artigos e documentação oficial (Material de grande importância para o exame AZ-900).
 
