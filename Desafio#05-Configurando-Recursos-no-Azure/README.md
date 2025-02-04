@@ -1,6 +1,6 @@
 ## ⚙️ Configurando Recursos no Azure
 
-Este repositório corresponde ao Desafio #05 da Bootcamp Microsoft Azure Essentials para fornecer instruções sobre como configurar recursos dentro do portal do Microsoft Azure.
+Este repositório corresponde ao Desafio #05 da [Bootcamp Microsoft Azure Essentials](https://www.dio.me/bootcamp/microsoft-azure-essentials?ref=AFOXWYVRXGV9) e da [Formação Microsoft AZ-900 Certification](https://web.dio.me/track/formacao-microsoft-az-900-certification) para fornecer instruções sobre como configurar recursos dentro do portal do Microsoft Azure.
 
 ### 1. Faça login na sua Conta no Azure ▶️
 
@@ -13,27 +13,27 @@ Se você ainda não tem uma conta no Azure, você vai precisar de uma! Visite o 
 **Imagem:** Escolha o sistema operacional (Windows ou Linux) que você quer usar.  
 **Tamanho:** Selecione o tamanho da VM com base nas suas necessidades de CPU e memória.  
 
-![Imagem 1](https://github.com/rhayssakramer/desafios-dio-azure-essentials/blob/main/Desafio%2305%20-%20Configurando%20Recursos%20no%20Azure/img/img1.png)
-![Imagem 2](https://github.com/rhayssakramer/desafios-dio-azure-essentials/blob/main/Desafio%2305%20-%20Configurando%20Recursos%20no%20Azure/img/img2.png)
-![Imagem 3](https://github.com/rhayssakramer/desafios-dio-azure-essentials/blob/main/Desafio%2305%20-%20Configurando%20Recursos%20no%20Azure/img/img3.png)
+![Imagem 1](https://github.com/rhayssakramer/formacao-azure-fundamentals/blob/main/Desafio%2305-Configurando-Recursos-no-Azure/img/img1.png)
+![Imagem 2](https://github.com/rhayssakramer/formacao-azure-fundamentals/blob/main/Desafio%2305-Configurando-Recursos-no-Azure/img/img2.png)
+![Imagem 3](https://github.com/rhayssakramer/formacao-azure-fundamentals/blob/main/Desafio%2305-Configurando-Recursos-no-Azure/img/img3.png)
 
 >Escolha o tipo de VMs que deseja criar.  
-><img src="https://github.com/rhayssakramer/desafios-dio-azure-essentials/blob/main/Desafio%2305%20-%20Configurando%20Recursos%20no%20Azure/img/img4.png" alt="Imagem 4" width="350"> 
+><img src="https://github.com/rhayssakramer/formacao-azure-fundamentals/blob/main/Desafio%2305-Configurando-Recursos-no-Azure/img/img4.png" alt="Imagem 4" width="350"> 
 
-![Imagem 5](https://github.com/rhayssakramer/desafios-dio-azure-essentials/blob/main/Desafio%2305%20-%20Configurando%20Recursos%20no%20Azure/img/img5.png)  
+![Imagem 5](https://github.com/rhayssakramer/formacao-azure-fundamentals/blob/main/Desafio%2305-Configurando-Recursos-no-Azure/img/img5.png)  
 
 >Escolha a assinatura e o grupo de recursos, podendo escolher um existente o criar um novo.   
-><img src="https://github.com/rhayssakramer/desafios-dio-azure-essentials/blob/main/Desafio%2305%20-%20Configurando%20Recursos%20no%20Azure/img/img6.png" alt="Imagem 6" width="650"> 
+><img src="https://github.com/rhayssakramer/formacao-azure-fundamentals/blob/main/Desafio%2305-Configurando-Recursos-no-Azure/img/img6.png" alt="Imagem 6" width="650"> 
 
 >Clique em `Criar novo` para criar o conjunto de dimensionamento de máquinas virtuais e configurar a orquestração.
-><img src="https://github.com/rhayssakramer/desafios-dio-azure-essentials/blob/main/Desafio%2305%20-%20Configurando%20Recursos%20no%20Azure/img/img7.png" alt="Imagem 7" width="650"> 
+><img src="https://github.com/rhayssakramer/formacao-azure-fundamentals/blob/main/Desafio%2305-Configurando-Recursos-no-Azure/img/img7.png" alt="Imagem 7" width="650"> 
 
 >Configure os detalhes da instância criada. Clique em `Ver todos os tamanhos` para visualizar todos os tamanhos das instâncias.
-><img src="https://github.com/rhayssakramer/desafios-dio-azure-essentials/blob/main/Desafio%2305%20-%20Configurando%20Recursos%20no%20Azure/img/img8.png" alt="Imagem 8" width="650"> 
+><img src="https://github.com/rhayssakramer/formacao-azure-fundamentals/blob/main/Desafio%2305-Configurando-Recursos-no-Azure/img/img8.png" alt="Imagem 8" width="650"> 
 
 >Escolha o tamanho da sua VM.  
 >**IMPORTANTE!** Sempre selecionar a opção **Excluir com VM**, pois com essa opção marcada os discos são todos excluídos juntamente com as máquinas virtuais que forem excluídas também.  
-><img src="https://github.com/rhayssakramer/desafios-dio-azure-essentials/blob/main/Desafio%2305%20-%20Configurando%20Recursos%20no%20Azure/img/img9.png" alt="Imagem 9" width="650"> 
+><img src="https://github.com/rhayssakramer/formacao-azure-fundamentals/blob/main/Desafio%2305-Configurando-Recursos-no-Azure/img/img9.png" alt="Imagem 9" width="650"> 
 
 ### 3. Configure o Dimensionamento da Máquina Virtual 📏
 
@@ -41,32 +41,32 @@ Se você ainda não tem uma conta no Azure, você vai precisar de uma! Visite o 
 **Dimensionamento Automático:** Configure a autoescala para ajustar automaticamente os recursos da VM com base na demanda. Isso é útil se você tem variações significativas no uso ou precisa garantir que a VM possa lidar com picos de carga.  
 **Utilize o Azure Advisor:** O Azure Advisor fornece recomendações de dimensionamento com base no desempenho atual da sua VM. Ele pode sugerir ajustes para economizar custos ou melhorar o desempenho.
 
-<img src="https://github.com/rhayssakramer/desafios-dio-azure-essentials/blob/main/Desafio%2305%20-%20Configurando%20Recursos%20no%20Azure/img/img10.png" alt="Imagem 10" width="650">
-<img src="https://github.com/rhayssakramer/desafios-dio-azure-essentials/blob/main/Desafio%2305%20-%20Configurando%20Recursos%20no%20Azure/img/img11.png" alt="Imagem 11" width="650"> 
+<img src="https://github.com/rhayssakramer/formacao-azure-fundamentals/blob/main/Desafio%2305-Configurando-Recursos-no-Azure/img/img10.png" alt="Imagem 10" width="650">
+<img src="https://github.com/rhayssakramer/formacao-azure-fundamentals/blob/main/Desafio%2305-Configurando-Recursos-no-Azure/img/img11.png" alt="Imagem 11" width="650"> 
 
 ### 4. Configure a Rede 🌐
 **Rede Virtual:** Crie uma nova rede ou escolha uma existente.  
 **Sub-rede:** Escolha a sub-rede para conectar sua VM.  
 **Grupo de Segurança de Rede (NSG):** Defina regras para controlar o tráfego de entrada e saída da VM. Só permita o tráfego que você realmente precisa.  
 
-<img src="https://github.com/rhayssakramer/desafios-dio-azure-essentials/blob/main/Desafio%2305%20-%20Configurando%20Recursos%20no%20Azure/img/img12.png" alt="Imagem 12" width="650"> 
+<img src="https://github.com/rhayssakramer/formacao-azure-fundamentals/blob/main/Desafio%2305-Configurando-Recursos-no-Azure/img/img12.png" alt="Imagem 12" width="650"> 
 
 ### 5. Defina Credenciais 🔑
 **Nome de Usuário e Senha:** Configure um usuário e senha fortes para acessar sua VM.  
 **Chaves SSH (para Linux):** Se for Linux, use chaves SSH para se conectar com mais segurança.
 
-<img src="https://github.com/rhayssakramer/desafios-dio-azure-essentials/blob/main/Desafio%2305%20-%20Configurando%20Recursos%20no%20Azure/img/img13.png" alt="Imagem 11" width="650"> 
+<img src="https://github.com/rhayssakramer/formacao-azure-fundamentals/blob/main/Desafio%2305-Configurando-Recursos-no-Azure/img/img13.png" alt="Imagem 11" width="650"> 
 
 ### 6. Configurações Adicionais 🛠️
 **Monitoramento:** Habilite o monitoramento para ficar de olho no desempenho da VM.  
 **Tags:** Adicione tags para organizar melhor seus recursos.
 
-<img src="https://github.com/rhayssakramer/desafios-dio-azure-essentials/blob/main/Desafio%2305%20-%20Configurando%20Recursos%20no%20Azure/img/img14.png" alt="Imagem 14" width="650"> 
+<img src="https://github.com/rhayssakramer/formacao-azure-fundamentals/blob/main/Desafio%2305-Configurando-Recursos-no-Azure/img/img14.png" alt="Imagem 14" width="650"> 
 
 ### 7. Revise e Crie 🔍
 Confira todas as configurações e clique em `Criar` e aguarde enquanto o Azure prepara sua VM.
 
-<img src="https://github.com/rhayssakramer/desafios-dio-azure-essentials/blob/main/Desafio%2305%20-%20Configurando%20Recursos%20no%20Azure/img/img15.png" alt="Imagem 15" width="650"> 
+<img src="https://github.com/rhayssakramer/formacao-azure-fundamentals/blob/main/Desafio%2305-Configurando-Recursos-no-Azure/img/img15.png" alt="Imagem 15" width="650"> 
 
 ### 8. Conecte-se à Sua VM 🌟
 **Para Windows:** Use Remote Desktop (RDP) para se conectar.
@@ -103,7 +103,7 @@ Este guia serve como uma introdução básica para fornecer instruções sobre c
 - [Tutoriais de Introdução ao Azure](https://docs.microsoft.com/learn/paths/azure-fundamentals/)
 
 ## 🔗 Créditos
-Este projeto foi desenvolvido como parte de Desafio de Projeto da [Bootcamp Microsoft Azure Essentials da DIO](https://www.dio.me/bootcamp/microsoft-azure-essentials?ref=AFOXWYVRXGV9), para avaliar o ensinado no curso de Conceito Iniciais de Cloud com Azure.
+Este projeto foi desenvolvido como parte de Desafio de Projeto da [Bootcamp Microsoft Azure Essentials](https://www.dio.me/bootcamp/microsoft-azure-essentials?ref=AFOXWYVRXGV9) e da [Formação Microsoft AZ-900 Certification](https://web.dio.me/track/formacao-microsoft-az-900-certification), para avaliar o ensinado no curso de Conceito Iniciais de Cloud com Azure.
 
 *Nota: Este projeto é apenas para fins educacionais e não possui nenhuma afiliação oficial com a franquia DIO ou suas empresas associadas.*
 
