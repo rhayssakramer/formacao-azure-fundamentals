@@ -6,18 +6,18 @@ O `Azure Cloud Shell` é uma ferramenta baseada em navegador que oferece um ambi
 
 - **Acesse o Portal do Azure:** faça login no [Portal do Azure](https://portal.azure.com/). Inicie o Cloud Shell. Clique no ícone de `Cloud Shell` no canto superior direito do portal, que se parece com um terminal.
 
-<img src="https://github.com/rhayssakramer/desafios-dio-azure-essentials/blob/main/Desafio%2310%20-%20Ferramentas%20de%20Implanta%C3%A7%C3%A3o%20no%20Azure/img/img1.png" alt="Imagem 1" width="250">  
+<img src="https://github.com/rhayssakramer/formacao-azure-fundamentals/blob/main/Desafio%2310-Ferramentas-de-Implantacao-no-Azure/img/img1.png" alt="Imagem 1" width="250">  
 
-<img src="https://github.com/rhayssakramer/desafios-dio-azure-essentials/blob/main/Desafio%2310%20-%20Ferramentas%20de%20Implanta%C3%A7%C3%A3o%20no%20Azure/img/img4.png" alt="Imagem 4" width="550">
+<img src="https://github.com/rhayssakramer/formacao-azure-fundamentals/blob/main/Desafio%2310-Ferramentas-de-Implantacao-no-Azure/img/img4.png" alt="Imagem 4" width="550">
 
 
 - **Escolha o Tipo de Shell:** o Cloud Shell oferece suporte para Bash e PowerShell. Selecione o ambiente que melhor se adapta às suas necessidades.
 
-<img src="https://github.com/rhayssakramer/desafios-dio-azure-essentials/blob/main/Desafio%2310%20-%20Ferramentas%20de%20Implanta%C3%A7%C3%A3o%20no%20Azure/img/img3.png" alt="Imagem 3" width="250">
+<img src="https://github.com/rhayssakramer/formacao-azure-fundamentals/blob/main/Desafio%2310-Ferramentas-de-Implantacao-no-Azure/img/img3.png" alt="Imagem 3" width="250">
 
 - **Use o Shell:** após iniciar o Shell, você pode executar comandos diretamente no navegador para gerenciar seus recursos Azure.
 
-<img src="https://github.com/rhayssakramer/desafios-dio-azure-essentials/blob/main/Desafio%2310%20-%20Ferramentas%20de%20Implanta%C3%A7%C3%A3o%20no%20Azure/img/img2.png" alt="Imagem 2" width="250">
+<img src="https://github.com/rhayssakramer/formacao-azure-fundamentals/blob/main/Desafio%2310-Ferramentas-de-Implantacao-no-Azure/img/img2.png" alt="Imagem 2" width="250">
 
 ### 2. Área de Automação no Azure 🖥
 A `Área de Automação no Azure` é um conjunto de ferramentas e serviços que permite automatizar tarefas e processos de gerenciamento de recursos. Isso inclui:
@@ -28,13 +28,13 @@ A `Área de Automação no Azure` é um conjunto de ferramentas e serviços que 
 
 - **Azure Logic Apps:** Uma ferramenta para criar fluxos de trabalho automáticos entre aplicativos e serviços para integrar e automatizar processos de negócios.
 
-<img src="https://github.com/rhayssakramer/desafios-dio-azure-essentials/blob/main/Desafio%2310%20-%20Ferramentas%20de%20Implanta%C3%A7%C3%A3o%20no%20Azure/img/img5.png" alt="Imagem 5" width="250">  
+<img src="https://github.com/rhayssakramer/formacao-azure-fundamentals/blob/main/Desafio%2310-Ferramentas-de-Implantacao-no-Azure/img/img5.png" alt="Imagem 5" width="250">  
 
-<img src="https://github.com/rhayssakramer/desafios-dio-azure-essentials/blob/main/Desafio%2310%20-%20Ferramentas%20de%20Implanta%C3%A7%C3%A3o%20no%20Azure/img/img6.png" alt="Imagem 6" width="550">  
+<img src="https://github.com/rhayssakramer/formacao-azure-fundamentals/blob/main/Desafio%2310-Ferramentas-de-Implantacao-no-Azure/img/img6.png" alt="Imagem 6" width="550">  
 
-<img src="https://github.com/rhayssakramer/desafios-dio-azure-essentials/blob/main/Desafio%2310%20-%20Ferramentas%20de%20Implanta%C3%A7%C3%A3o%20no%20Azure/img/img7.png" alt="Imagem 7" width="550">  
+<img src="https://github.com/rhayssakramer/formacao-azure-fundamentals/blob/main/Desafio%2310-Ferramentas-de-Implantacao-no-Azure/img/img7.png" alt="Imagem 7" width="550">  
 
-<img src="https://github.com/rhayssakramer/desafios-dio-azure-essentials/blob/main/Desafio%2310%20-%20Ferramentas%20de%20Implanta%C3%A7%C3%A3o%20no%20Azure/img/img8.png" alt="Imagem 8" width="550">  
+<img src="https://github.com/rhayssakramer/formacao-azure-fundamentals/blob/main/Desafio%2310-Ferramentas-de-Implantacao-no-Azure/img/img8.png" alt="Imagem 8" width="550">  
 
 
 Essas ferramentas ajudam a melhorar a eficiência e a consistência na administração de ambientes Azure, permitindo a criação de soluções personalizadas para suas necessidades.
@@ -42,9 +42,9 @@ Essas ferramentas ajudam a melhorar a eficiência e a consistência na administr
 ### 3. Azure Bicep ⌨️
 O `Azure Bicep` é uma linguagem de infraestrutura como código (IaC) que simplifica a criação e o gerenciamento de recursos Azure. É uma alternativa ao Azure Resource Manager (ARM) templates, oferecendo uma sintaxe mais simples e legível.
 
-<img src="https://github.com/rhayssakramer/desafios-dio-azure-essentials/blob/main/Desafio%2310%20-%20Ferramentas%20de%20Implanta%C3%A7%C3%A3o%20no%20Azure/img/img9.png" alt="Imagem 9" width="550">  
+<img src="https://github.com/rhayssakramer/formacao-azure-fundamentals/blob/main/Desafio%2310-Ferramentas-de-Implantacao-no-Azure/img/img9.png" alt="Imagem 9" width="550">  
 
-<img src="https://github.com/rhayssakramer/desafios-dio-azure-essentials/blob/main/Desafio%2310%20-%20Ferramentas%20de%20Implanta%C3%A7%C3%A3o%20no%20Azure/img/img10.png" alt="Imagem 10" width="550">  
+<img src="https://github.com/rhayssakramer/formacao-azure-fundamentals/blob/main/Desafio%2310-Ferramentas-de-Implantacao-no-Azure/img/img10.png" alt="Imagem 10" width="550">  
 
 **Características do Azure Bicep**
 
@@ -69,7 +69,7 @@ resource storageAccount 'Microsoft.Storage/storageAccounts@2021-04-01' = {
 ### 4. Azure Arc
 O `Azure Arc` é uma solução que estende os serviços do Azure para ambientes locais e outras nuvens, permitindo que você gerencie recursos híbridos e multi-nuvem como se estivessem no Azure.
 
-<img src="https://github.com/rhayssakramer/desafios-dio-azure-essentials/blob/main/Desafio%2310%20-%20Ferramentas%20de%20Implanta%C3%A7%C3%A3o%20no%20Azure/img/img11.png" alt="Imagem 11" width="650">  
+<img src="https://github.com/rhayssakramer/formacao-azure-fundamentals/blob/main/Desafio%2310-Ferramentas-de-Implantacao-no-Azure/img/img11.png" alt="Imagem 11" width="650">  
 
 **Principais Recursos do Azure Arc**
 - **Gerenciamento Centralizado:** Oferece uma visão unificada para gerenciar recursos em ambientes locais, em outras nuvens e no Azure.
@@ -78,9 +78,9 @@ O `Azure Arc` é uma solução que estende os serviços do Azure para ambientes 
 
 O Azure Arc proporciona flexibilidade e controle adicional, ajudando a criar uma experiência híbrida e multi-nuvem coesa. Com essas ferramentas e serviços, você pode automatizar processos, gerenciar recursos de forma eficiente e integrar ambientes diversos, otimizando sua administração no Azure e além.
 
-<img src="https://github.com/rhayssakramer/desafios-dio-azure-essentials/blob/main/Desafio%2310%20-%20Ferramentas%20de%20Implanta%C3%A7%C3%A3o%20no%20Azure/img/img12.png" alt="Imagem 12" width="650">  
+<img src="https://github.com/rhayssakramer/formacao-azure-fundamentals/blob/main/Desafio%2310-Ferramentas-de-Implantacao-no-Azure/img/img12.png" alt="Imagem 12" width="650">  
 
-<img src="https://github.com/rhayssakramer/desafios-dio-azure-essentials/blob/main/Desafio%2310%20-%20Ferramentas%20de%20Implanta%C3%A7%C3%A3o%20no%20Azure/img/img13.png" alt="Imagem 13" width="650">  
+<img src="https://github.com/rhayssakramer/formacao-azure-fundamentals/blob/main/Desafio%2310-Ferramentas-de-Implantacao-no-Azure/img/img13.png" alt="Imagem 13" width="650">  
 
 **Com essas ferramentas e serviços, você pode automatizar processos, gerenciar recursos de forma eficiente e integrar ambientes diversos, otimizando sua administração no Azure e além.**
 
@@ -94,7 +94,7 @@ Este guia serve como uma introdução básica para fornecer instruções sobre a
 - [Tutoriais de Introdução ao Azure](https://docs.microsoft.com/learn/paths/azure-fundamentals/)
 
 ## 🔗 Créditos
-Este projeto foi desenvolvido como parte de Desafio de Projeto da [Bootcamp Microsoft Azure Essentials da DIO](https://www.dio.me/bootcamp/microsoft-azure-essentials?ref=AFOXWYVRXGV9), para avaliar o ensinado no curso de Conceito Iniciais de Cloud com Azure.
+Este projeto foi desenvolvido como parte de Desafio de Projeto da [Bootcamp Microsoft Azure Essentials](https://www.dio.me/bootcamp/microsoft-azure-essentials?ref=AFOXWYVRXGV9) e da [Formação Microsoft AZ-900 Certification](https://web.dio.me/track/formacao-microsoft-az-900-certification), para avaliar o ensinado no curso de Conceito Iniciais de Cloud com Azure.
 
 *Nota: Este projeto é apenas para fins educacionais e não possui nenhuma afiliação oficial com a franquia DIO ou suas empresas associadas.*
 
