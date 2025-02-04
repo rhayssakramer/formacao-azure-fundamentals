@@ -1,5 +1,5 @@
 ## ⚙️ Identidade, Acesso e Segurança
-Este repositório corresponde ao Desafio #07 da Bootcamp Microsoft Azure Essentials para fornecer instruções sobre Microsoft Entra ID e Microsoft Defender for Cloud dentro do portal do Microsoft Azure.
+Este repositório corresponde ao Desafio #07 da [Bootcamp Microsoft Azure Essentials](https://www.dio.me/bootcamp/microsoft-azure-essentials?ref=AFOXWYVRXGV9) e da [Formação Microsoft AZ-900 Certification](https://web.dio.me/track/formacao-microsoft-az-900-certification) para fornecer instruções sobre Microsoft Entra ID e Microsoft Defender for Cloud dentro do portal do Microsoft Azure.
 
 ### 1. Faça login na sua Conta no Azure ▶️
 Se você ainda não tem uma conta no Azure, você vai precisar de uma! Visite o [Portal do Azure](https://portal.azure.com/) faça seu cadastro gratuitamente e siga o processo para criar uma conta. Após o cadastro, faça login com sua conta no Portal.
