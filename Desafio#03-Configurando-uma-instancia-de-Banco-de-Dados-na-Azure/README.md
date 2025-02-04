@@ -1,14 +1,14 @@
 ## ⚙️ Configurando uma instância de Banco de Dados na Azure
 
-Este repositório corresponde ao Desafio #03 da Bootcamp Microsoft Azure Essentials para fornecer instruções sobre como criar uma instância de Banco de Dados dentro do portal do Microsoft Azure.
+Este repositório corresponde ao Desafio #03 da [Bootcamp Microsoft Azure Essentials](https://www.dio.me/bootcamp/microsoft-azure-essentials?ref=AFOXWYVRXGV9) e da [Formação Microsoft AZ-900 Certification](https://web.dio.me/track/formacao-microsoft-az-900-certification) para fornecer instruções sobre como criar uma instância de Banco de Dados dentro do portal do Microsoft Azure.
 
 ### 1. Crie sua Conta no Azure
 Se você ainda não tem uma conta no Azure, você vai precisar de uma! Visite o [Portal do Azure](https://portal.azure.com/) faça seu cadastro gratuitamente e siga o processo para criar uma conta. Após o cadastro, faça login com sua conta no Portal.
 
 ### 2. Navegue até o Portal do Azure
 Depois de fazer login no portal, vá até o painel principal e pesquise por `SQL Database` na barra de pesquisa ou clique em `Criar um recurso` e depois em `Banco de Dados`.
-![Imagem 1](https://github.com/rhayssakramer/desafios-dio-azure-essentials/blob/main/Desafio%2303%20-%20Configurando%20uma%20inst%C3%A2ncia%20de%20Banco%20de%20Dados%20na%20Azure/img/Imagem1.png)
-![Imagem 2](https://github.com/rhayssakramer/desafios-dio-azure-essentials/blob/main/Desafio%2303%20-%20Configurando%20uma%20inst%C3%A2ncia%20de%20Banco%20de%20Dados%20na%20Azure/img/Imagem%202.png)
+![Imagem 1](https://github.com/rhayssakramer/formacao-azure-fundamentals/blob/main/Desafio%2303-Configurando-uma-instancia-de-Banco-de-Dados-na-Azure/img/Imagem1.png)
+![Imagem 2](https://github.com/rhayssakramer/formacao-azure-fundamentals/blob/main/Desafio%2303-Configurando-uma-instancia-de-Banco-de-Dados-na-Azure/img/Imagem%202.png)
 
 ### 3. Crie um Novo Banco de Dados
 Clique em `Criar`, isso iniciará o assistente de criação do banco de dados.  
@@ -19,8 +19,8 @@ Clique em `Criar`, isso iniciará o assistente de criação do banco de dados.
 **Grupo de Recursos:** Crie um novo grupo ou use um existente.
 **Servidor:** Crie um novo servidor ou selecione um já existente. Se você está criando um novo, preencha o nome do servidor, localização e credenciais de administrador.
 
-![Imagem 3](https://github.com/rhayssakramer/desafios-dio-azure-essentials/blob/main/Desafio%2303%20-%20Configurando%20uma%20inst%C3%A2ncia%20de%20Banco%20de%20Dados%20na%20Azure/img/Imagem%203.png)
-![Imagem 4](https://github.com/rhayssakramer/desafios-dio-azure-essentials/blob/main/Desafio%2303%20-%20Configurando%20uma%20inst%C3%A2ncia%20de%20Banco%20de%20Dados%20na%20Azure/img/Imagem%204.png)
+![Imagem 3](https://github.com/rhayssakramer/formacao-azure-fundamentals/blob/main/Desafio%2303-Configurando-uma-instancia-de-Banco-de-Dados-na-Azure/img/Imagem%203.png)
+![Imagem 4](https://github.com/rhayssakramer/formacao-azure-fundamentals/blob/main/Desafio%2303-Configurando-uma-instancia-de-Banco-de-Dados-na-Azure/img/Imagem%204.png)
 
 ### 4. Configurações de Banco de Dados
 Escolha o tipo de banco de dados que deseja usar. O Azure oferece opções como SQL Database entre outros. Aqui, vamos criar um `SQL Database`.
@@ -45,7 +45,7 @@ Este guia serve como uma introdução básica para criar uma instância de Banco
 - [Tutoriais de Introdução ao Azure](https://docs.microsoft.com/learn/paths/azure-fundamentals/)
 
 ## 🔗 Créditos
-Este projeto foi desenvolvido como parte de Desafio de Projeto da [Bootcamp Microsoft Azure Essentials da DIO](https://www.dio.me/bootcamp/microsoft-azure-essentials?ref=AFOXWYVRXGV9), para avaliar o ensinado no curso de Conceito Iniciais de Cloud com Azure.
+Este projeto foi desenvolvido como parte de Desafio de Projeto da [Bootcamp Microsoft Azure Essentials](https://www.dio.me/bootcamp/microsoft-azure-essentials?ref=AFOXWYVRXGV9) e da [Formação Microsoft AZ-900 Certification](https://web.dio.me/track/formacao-microsoft-az-900-certification), para avaliar o ensinado no curso de Conceito Iniciais de Cloud com Azure.
 
 *Nota: Este projeto é apenas para fins educacionais e não possui nenhuma afiliação oficial com a franquia DIO ou suas empresas associadas.*
 
