@@ -1,6 +1,6 @@
 ## 🔍 Guia de Localização por Categoria de Serviços do Microsoft Azure
 
-Este repositório corresponde ao Desafio #01 da Bootcamp Microsoft Azure Essentials para fornecer instruções sobre como localizar e acessar por categoria os serviços dentro do portal do Microsoft Azure. 
+Este repositório corresponde ao Desafio #01 da [Bootcamp Microsoft Azure Essentials](https://www.dio.me/bootcamp/microsoft-azure-essentials?ref=AFOXWYVRXGV9) e da [Formação Microsoft AZ-900 Certification](https://web.dio.me/track/formacao-microsoft-az-900-certification) para fornecer instruções sobre como localizar e acessar por categoria os serviços dentro do portal do Microsoft Azure. 
 
 ### Índice
 - [Introdução](https://github.com/rhayssakramer/guiaLocalizadorServicosAzure/#introdução)
@@ -20,8 +20,8 @@ O Microsoft Azure é uma plataforma de nuvem que disponibiliza uma variedade de 
 
 ### Localizando Serviços por Categoria
 No Azure, os serviços são classificados em categorias como Computação, Rede, Armazenamento, entre outras. Vamos entender como acessar serviços específicos dentro de cada uma dessas categorias.
-![Tela Inicial do Portal Azure](https://github.com/rhayssakramer/desafios-dio-azure-essentials/blob/main/Desafio%2301%20-%20Cria%C3%A7%C3%A3o%20de%20Guia%20de%20Localizador%20de%20Servi%C3%A7os%20por%20Categoria%20na%20Azure/img/imagem1.png)
-![Tela de Serviços do Azure](https://github.com/rhayssakramer/desafios-dio-azure-essentials/blob/main/Desafio%2301%20-%20Cria%C3%A7%C3%A3o%20de%20Guia%20de%20Localizador%20de%20Servi%C3%A7os%20por%20Categoria%20na%20Azure/img/imagem2.png)
+![Tela Inicial do Portal Azure](https://github.com/rhayssakramer/formacao-azure-fundamentals/blob/main/Desafio%2301-Criacao-de-Guia-de-Localizador-de-Servicos-por-Categoria-na-Azure/img/imagem1.png)
+![Tela de Serviços do Azure](https://github.com/rhayssakramer/formacao-azure-fundamentals/blob/main/Desafio%2301-Criacao-de-Guia-de-Localizador-de-Servicos-por-Categoria-na-Azure/img/imagem2.png)
 
 #### Máquinas Virtuais
 As Máquinas Virtuais (VMs) são um dos serviços mais utilizados no Azure, permitindo que você crie e gerencie máquinas virtuais em nuvem.
@@ -63,7 +63,7 @@ Este guia serve como uma introdução básica para localizar serviços essenciai
 - [Tutoriais de Introdução ao Azure](https://docs.microsoft.com/learn/paths/azure-fundamentals/)
 
 ## 🔗 Créditos
-Este projeto foi desenvolvido como parte de Desafio de Projeto da [Bootcamp Microsoft Azure Essentials da DIO](https://www.dio.me/bootcamp/microsoft-azure-essentials?ref=AFOXWYVRXGV9), para avaliar o ensinado no curso de Conceito Iniciais de Cloud com Azure.
+Este projeto foi desenvolvido como parte de Desafio de Projeto da [Bootcamp Microsoft Azure Essentials](https://www.dio.me/bootcamp/microsoft-azure-essentials?ref=AFOXWYVRXGV9) e da [Formação Microsoft AZ-900 Certification](https://web.dio.me/track/formacao-microsoft-az-900-certification), para avaliar o ensinado no curso de Conceito Iniciais de Cloud com Azure.
 
 *Nota: Este projeto é apenas para fins educacionais e não possui nenhuma afiliação oficial com a franquia DIO ou suas empresas associadas.*
 
