@@ -1,5 +1,5 @@
 ## ⚙️ Gerenciando Políticas no Azure
-Este repositório corresponde ao Desafio #09 da Bootcamp Microsoft Azure Essentials para fornecer instruções sobre como Gerenciar Políticas no Microsoft Azure.
+Este repositório corresponde ao Desafio #09 da [Bootcamp Microsoft Azure Essentials](https://www.dio.me/bootcamp/microsoft-azure-essentials?ref=AFOXWYVRXGV9) e da [Formação Microsoft AZ-900 Certification](https://web.dio.me/track/formacao-microsoft-az-900-certification) para fornecer instruções sobre como Gerenciar Políticas no Microsoft Azure.
 
 ### 1. Portal de Confiança do Azure 🔐
 O `Portal de Confiança do Azure` é uma plataforma que oferece visibilidade e controle sobre a conformidade e a segurança dos seus recursos no Azure.  Ele fornece informações sobre práticas recomendadas, conformidade com normas e a segurança dos dados.   
