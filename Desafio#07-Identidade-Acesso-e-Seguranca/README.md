@@ -7,12 +7,12 @@ Se você ainda não tem uma conta no Azure, você vai precisar de uma! Visite o 
 ### 2. Explore o Microsoft Entra ID 🔍
 O Microsoft Entra ID (anteriormente conhecido como Azure Active Directory) é um serviço de identidade e gerenciamento de acesso baseado na nuvem que ajuda a proteger e gerenciar o acesso aos recursos da sua organização.
 
-![Imagem 1](https://github.com/rhayssakramer/desafios-dio-azure-essentials/blob/main/Desafio%2307%20-%20Identidade%2C%20Acesso%20e%20Seguran%C3%A7a/img/img1.png)
-![Imagem 2](https://github.com/rhayssakramer/desafios-dio-azure-essentials/blob/main/Desafio%2307%20-%20Identidade%2C%20Acesso%20e%20Seguran%C3%A7a/img/img2.png)
+![Imagem 1](https://github.com/rhayssakramer/formacao-azure-fundamentals/blob/main/Desafio%2307-Identidade-Acesso-e-Seguranca/img/img1.png)
+![Imagem 2](https://github.com/rhayssakramer/formacao-azure-fundamentals/blob/main/Desafio%2307-Identidade-Acesso-e-Seguranca/img/img2.png)
 
-><img src="https://github.com/rhayssakramer/desafios-dio-azure-essentials/blob/main/Desafio%2307%20-%20Identidade%2C%20Acesso%20e%20Seguran%C3%A7a/img/img3.png" alt="Imagem 3" width="250">
+><img src="https://github.com/rhayssakramer/formacao-azure-fundamentals/blob/main/Desafio%2307-Identidade-Acesso-e-Seguranca/img/img3.png" alt="Imagem 3" width="250">
 
-![Imagem4](https://github.com/rhayssakramer/desafios-dio-azure-essentials/blob/main/Desafio%2307%20-%20Identidade%2C%20Acesso%20e%20Seguran%C3%A7a/img/img4.png)
+![Imagem4](https://github.com/rhayssakramer/formacao-azure-fundamentals/blob/main/Desafio%2307-Identidade-Acesso-e-Seguranca/img/img4.png)
   
 **Gerenciamento de Usuários**
 - **Adicionar Usuários:** Clique em `Usuários` e depois em `Novo usuário` para adicionar novos usuários ao diretório.  
@@ -20,29 +20,29 @@ O Microsoft Entra ID (anteriormente conhecido como Azure Active Directory) é um
 - **Grupos:** Crie e gerencie grupos para facilitar a atribuição de permissões e acesso.
 
 >IMPORTANTE!  
-><img src="https://github.com/rhayssakramer/desafios-dio-azure-essentials/blob/main/Desafio%2307%20-%20Identidade%2C%20Acesso%20e%20Seguran%C3%A7a/img/img5.png" alt="Imagem 5" width="550">   
+><img src="https://github.com/rhayssakramer/formacao-azure-fundamentals/blob/main/Desafio%2307-Identidade-Acesso-e-Seguranca/img/img5.png" alt="Imagem 5" width="550">   
 
 **Gerenciamento de Acessos**
 - **Controle de Acesso Baseado em Funções (RBAC):** Atribua papéis e permissões específicas aos usuários e grupos para controlar o acesso aos recursos.
 - **Políticas de Acesso Condicional:** Configure políticas para definir condições sob as quais os usuários podem acessar determinados recursos.
 
-><img src="https://github.com/rhayssakramer/desafios-dio-azure-essentials/blob/main/Desafio%2307%20-%20Identidade%2C%20Acesso%20e%20Seguran%C3%A7a/img/img6.png" alt="Imagem 6" width="550"> 
+><img src="https://github.com/rhayssakramer/formacao-azure-fundamentals/blob/main/Desafio%2307-Identidade-Acesso-e-Seguranca/img/img6.png" alt="Imagem 6" width="550"> 
 
 ### 3. Acesse o Microsoft Defender for Cloud 🔐
 No portal do Azure, procure por `Microsoft Defender for Cloud` e selecione o serviço.
 
 O Microsoft Defender for Cloud é uma solução de monitoramento e segurança que fornece visibilidade e proteção para suas cargas de trabalho na nuvem e em ambientes locais.
 
-![Imagem 7](https://github.com/rhayssakramer/desafios-dio-azure-essentials/blob/main/Desafio%2307%20-%20Identidade%2C%20Acesso%20e%20Seguran%C3%A7a/img/img7.png)
-![Imagem 8](https://github.com/rhayssakramer/desafios-dio-azure-essentials/blob/main/Desafio%2307%20-%20Identidade%2C%20Acesso%20e%20Seguran%C3%A7a/img/img8.png)
+![Imagem 7](https://github.com/rhayssakramer/formacao-azure-fundamentals/blob/main/Desafio%2307-Identidade-Acesso-e-Seguranca/img/img7.png)
+![Imagem 8](https://github.com/rhayssakramer/formacao-azure-fundamentals/blob/main/Desafio%2307-Identidade-Acesso-e-Seguranca/img/img8.png)
 
 **Principais Funções**
 - **Monitoramento de Segurança:** Oferece uma visão unificada da postura de segurança de suas implementações, identificando vulnerabilidades e riscos.
 - **Gerenciamento de Incidentes:** Permite o gerenciamento e a resposta a incidentes de segurança com alertas e recomendações práticas.
 - **Avaliação de Conformidade:** Avalia a conformidade com políticas e regulamentos de segurança, fornecendo relatórios detalhados.
 
-><img src="https://github.com/rhayssakramer/desafios-dio-azure-essentials/blob/main/Desafio%2307%20-%20Identidade%2C%20Acesso%20e%20Seguran%C3%A7a/img/img9.png" alt="Imagem 9" width="550">
-><img src="https://github.com/rhayssakramer/desafios-dio-azure-essentials/blob/main/Desafio%2307%20-%20Identidade%2C%20Acesso%20e%20Seguran%C3%A7a/img/img10.png" alt="Imagem 10" width="550"> 
+><img src="https://github.com/rhayssakramer/formacao-azure-fundamentals/blob/main/Desafio%2307-Identidade-Acesso-e-Seguranca/img/img9.png" alt="Imagem 9" width="550">
+><img src="https://github.com/rhayssakramer/formacao-azure-fundamentals/blob/main/Desafio%2307-Identidade-Acesso-e-Seguranca/img/img10.png" alt="Imagem 10" width="550"> 
 
 **Configuração de Alertas e Recomendações**
 - **Alertas:** Configure alertas para notificar sobre atividades suspeitas e vulnerabilidades.
@@ -69,7 +69,7 @@ Este guia serve como uma introdução básica para fornecer instruções sobre M
 - [Tutoriais de Introdução ao Azure](https://docs.microsoft.com/learn/paths/azure-fundamentals/)
 
 ## 🔗 Créditos
-Este projeto foi desenvolvido como parte de Desafio de Projeto da [Bootcamp Microsoft Azure Essentials da DIO](https://www.dio.me/bootcamp/microsoft-azure-essentials?ref=AFOXWYVRXGV9), para avaliar o ensinado no curso de Conceito Iniciais de Cloud com Azure.
+Este projeto foi desenvolvido como parte de Desafio de Projeto da [Bootcamp Microsoft Azure Essentials](https://www.dio.me/bootcamp/microsoft-azure-essentials?ref=AFOXWYVRXGV9) e da [Formação Microsoft AZ-900 Certification](https://web.dio.me/track/formacao-microsoft-az-900-certification), para avaliar o ensinado no curso de Conceito Iniciais de Cloud com Azure.
 
 *Nota: Este projeto é apenas para fins educacionais e não possui nenhuma afiliação oficial com a franquia DIO ou suas empresas associadas.*
 
