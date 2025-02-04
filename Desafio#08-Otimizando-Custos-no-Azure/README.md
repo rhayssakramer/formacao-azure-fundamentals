@@ -1,5 +1,5 @@
 ## ⚙️ Otimizando Custos no Azure
-Este repositório corresponde ao Desafio #08 da Bootcamp Microsoft Azure Essentials para fornecer instruções sobre utilizar a Calculadora de TCO do Microsoft Azure.
+Este repositório corresponde ao Desafio #08 da [Bootcamp Microsoft Azure Essentials](https://www.dio.me/bootcamp/microsoft-azure-essentials?ref=AFOXWYVRXGV9) e da [Formação Microsoft AZ-900 Certification](https://web.dio.me/track/formacao-microsoft-az-900-certification) para fornecer instruções sobre utilizar a Calculadora de TCO do Microsoft Azure.
 
 ### 1. Usando a Calculadora de TCO 🧮
 A [Calculadora de TCO](https://azure.microsoft.com/pt-br/pricing/tco/calculator/) (Total Cost of Ownership) do Azure é uma ferramenta útil para estimar o custo total de propriedade ao migrar para a nuvem. Para utilizar a Calculadora de TCO, siga estes passos:
