@@ -1,5 +1,5 @@
 ## ⚙️ Ferramentas de Implantação no Azure
-Este repositório corresponde ao Desafio #10 da Bootcamp Microsoft Azure Essentials para fornecer instruções sobre as Ferramentas de Implantação no Microsoft Azure.
+Este repositório corresponde ao Desafio #10 da [Bootcamp Microsoft Azure Essentials](https://www.dio.me/bootcamp/microsoft-azure-essentials?ref=AFOXWYVRXGV9) e da [Formação Microsoft AZ-900 Certification](https://web.dio.me/track/formacao-microsoft-az-900-certification) para fornecer instruções sobre as Ferramentas de Implantação no Microsoft Azure.
 
 ### 1. Acessando o Shell no Azure 🗃️
 O `Azure Cloud Shell` é uma ferramenta baseada em navegador que oferece um ambiente de linha de comando para gerenciar seus recursos no Azure. Você pode usar o `Cloud Shell` diretamente no Portal do Azure, sem precisar instalar ferramentas localmente.
