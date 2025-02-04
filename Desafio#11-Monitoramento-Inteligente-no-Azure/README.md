@@ -1,5 +1,5 @@
 ## ⚙️ Monitoramento Inteligente no Azure
-Este repositório corresponde ao Desafio #11 da Bootcamp Microsoft Azure Essentials para fornecer instruções sobre o Monitoramento Inteligente no Microsoft Azure.
+Este repositório corresponde ao Desafio #11 da [Bootcamp Microsoft Azure Essentials](https://www.dio.me/bootcamp/microsoft-azure-essentials?ref=AFOXWYVRXGV9) e da [Formação Microsoft AZ-900 Certification](https://web.dio.me/track/formacao-microsoft-az-900-certification) para fornecer instruções sobre o Monitoramento Inteligente no Microsoft Azure.
 
 ### 1. Azure Monitor 💻
 O `Azure Monitor` é uma plataforma abrangente de monitoramento que fornece insights completos sobre o desempenho e a integridade dos recursos do Azure. Ele coleta, analisa e atua sobre dados de telemetria de seus aplicativos e recursos para ajudar a manter e melhorar a disponibilidade e o desempenho.
