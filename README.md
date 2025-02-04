@@ -19,17 +19,17 @@ Aqui você encontrará uma lista de recursos úteis para se preparar para o exam
 ### 💻 Projetos e Desafios  
 Veja os projetos e desafios que completei durante o bootcamp e a formação:
 - [Desafios de Código](https://github.com/rhayssakramer/formacao-azure-fundamentals/tree/main/Desafios-de-Codigo/Modulo%2303)
-- [Desafio 1: Localizador de Serviços por Categoria](https://github.com/rhayssakramer/formacao-azure-fundamentals/tree/main/Desafio%2301%20-%20Cria%C3%A7%C3%A3o%20de%20Guia%20de%20Localizador%20de%20Servi%C3%A7os%20por%20Categoria%20na%20Azure)
-- [Desafio 2: Criação de VM em Azure](https://github.com/rhayssakramer/formacao-azure-fundamentals/tree/main/Desafio%2302%20-%20Cria%C3%A7%C3%A3o%20de%20VM%20em%20Azure)
-- [Desafio 3: Configurando uma instância de Banco de Dados na Azure](https://github.com/rhayssakramer/formacao-azure-fundamentals/tree/main/Desafio%2303%20-%20Configurando%20uma%20inst%C3%A2ncia%20de%20Banco%20de%20Dados%20na%20Azure)
-- [Desafio 4: Criação de Infraestrutura no Azure](https://github.com/rhayssakramer/formacao-azure-fundamentals/tree/main/Desafio%2304%20-%20Construindo%20Arquiteturas%20no%20Azure)
-- [Desafio 5: Configurando Recursos no Azure](https://github.com/rhayssakramer/formacao-azure-fundamentals/tree/main/Desafio%2305%20-%20Configurando%20Recursos%20no%20Azure)
-- [Desafio 6: Dominando Armazenamento Azure](https://github.com/rhayssakramer/formacao-azure-fundamentals/tree/main/Desafio%2306%20-%20Dominando%20Armazenamento%20no%20Azure)
-- [Desafio 7: Identidade, Acesso e Segurança](https://github.com/rhayssakramer/formacao-azure-fundamentals/tree/main/Desafio%2307%20-%20Identidade%2C%20Acesso%20e%20Seguran%C3%A7a)
-- [Desafio 8: Otimizando Custos no Azure](https://github.com/rhayssakramer/formacao-azure-fundamentals/tree/main/Desafio%2308%20-%20Otimizando%20Custos%20no%20Azure)
-- [Desafio 9: Gerenciando Políticas no Azure](https://github.com/rhayssakramer/formacao-azure-fundamentals/tree/main/Desafio%2309%20-%20Gerenciando%20Pol%C3%ADticas%20no%20Azure)
-- [Desafio 10: Ferramentas de Implantação no Azure](https://github.com/rhayssakramer/formacao-azure-fundamentals/tree/main/Desafio%2310%20-%20Ferramentas%20de%20Implanta%C3%A7%C3%A3o%20no%20Azure)
-- [Desafio 11: Monitoramento Inteligente no Azure](https://github.com/rhayssakramer/formacao-azure-fundamentals/tree/main/Desafio%2311%20-%20Monitoramento%20Inteligente%20no%20Azure)
+- [Desafio 1: Localizador de Serviços por Categoria](https://github.com/rhayssakramer/formacao-azure-fundamentals/tree/main/Desafio%2301-Criacao-de-Guia-de-Localizador-de-Servicos-por-Categoria-na-Azure)
+- [Desafio 2: Criação de VM em Azure](https://github.com/rhayssakramer/formacao-azure-fundamentals/tree/main/Desafio%2302-Criacao-de-VM-em-Azure)
+- [Desafio 3: Configurando uma instância de Banco de Dados na Azure](https://github.com/rhayssakramer/formacao-azure-fundamentals/tree/main/Desafio%2303-Configurando-uma-instancia-de-Banco-de-Dados-na-Azure)
+- [Desafio 4: Criação de Infraestrutura no Azure](https://github.com/rhayssakramer/formacao-azure-fundamentals/tree/main/Desafio%2304-Construindo-Arquiteturas-no-Azure)
+- [Desafio 5: Configurando Recursos no Azure](https://github.com/rhayssakramer/formacao-azure-fundamentals/tree/main/Desafio%2305-Configurando-Recursos-no-Azure)
+- [Desafio 6: Dominando Armazenamento Azure](https://github.com/rhayssakramer/formacao-azure-fundamentals/tree/main/Desafio%2306-Dominando-Armazenamento-no-Azure)
+- [Desafio 7: Identidade, Acesso e Segurança](https://github.com/rhayssakramer/formacao-azure-fundamentals/tree/main/Desafio%2307-Identidade-Acesso-e-Seguranca)
+- [Desafio 8: Otimizando Custos no Azure](https://github.com/rhayssakramer/formacao-azure-fundamentals/tree/main/Desafio%2308-Otimizando-Custos-no-Azure)
+- [Desafio 9: Gerenciando Políticas no Azure](https://github.com/rhayssakramer/formacao-azure-fundamentals/tree/main/Desafio%2309-Gerenciando-Politicas-no-Azure)
+- [Desafio 10: Ferramentas de Implantação no Azure](https://github.com/rhayssakramer/formacao-azure-fundamentals/tree/main/Desafio%2310-Ferramentas-de-Implantacao-no-Azure)
+- [Desafio 11: Monitoramento Inteligente no Azure](https://github.com/rhayssakramer/formacao-azure-fundamentals/tree/main/Desafio%2311-Monitoramento-Inteligente-no-Azure)
 
 ### 🔗 Links Úteis
 - [Portal do Azure](https://portal.azure.com/)
