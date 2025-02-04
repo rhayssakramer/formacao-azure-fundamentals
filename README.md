@@ -5,9 +5,9 @@ Este repositório corresponde ao compliado de conteúdos utilizados na [Bootcamp
 ### 🗂️ O que você encontrará aqui?
 Este repositório está organizado para armazenar e gerenciar todos os materiais do bootcamp e da formação, assim como os desafios, links úteis, estudos e outros recursos.
 
-- 🔍 [Recursos de Estudo:](https://github.com/rhayssakramer/formacao-azure-fundamentals/recursos-de-estudo) links e materiais recomendados para o estudo da Certificação da AZ-900.
-- 💻 [Projetos e Desafios:](https://github.com/rhayssakramer/formacao-azure-fundamentals/tree/main/Desafios-de-modulo/Modulo%2303) códigos e exercícios práticos realizados durante a bootcamp.
-- 🔗 [Links Úteis:](https://github.com/rhayssakramer/formacao-azure-fundamentals/links-úteis) links, artigos e documentação oficial (Material de grande importância para o exame AZ-900).
+- 🔍 [Recursos de Estudo:](https://github.com/rhayssakramer/formacao-azure-fundamentals?tab=readme-ov-file#-projetos-e-desafios) links e materiais recomendados para o estudo da Certificação da AZ-900.
+- 💻 [Projetos e Desafios:](https://github.com/rhayssakramer/formacao-azure-fundamentals?tab=readme-ov-file#-projetos-e-desafios) códigos e exercícios práticos realizados durante a bootcamp.
+- 🔗 [Links Úteis:](https://github.com/rhayssakramer/formacao-azure-fundamentals?tab=readme-ov-file#-links-%C3%BAteis) links, artigos e documentação oficial (Material de grande importância para o exame AZ-900).
 
 ### 🔍 Recursos de Estudo
 Aqui você encontrará uma lista de recursos úteis para se preparar para o exame AZ-900:
@@ -17,7 +17,8 @@ Aqui você encontrará uma lista de recursos úteis para se preparar para o exam
 - [Material de Estudo](https://www.youtube.com/watch?v=h5PNYnwApkM&list=PL_yq9hmeKAk_rUvgo0KECZYI1bKzcyncC&index=1)
 
 ### 💻 Projetos e Desafios  
-Veja os projetos e desafios que completei durante o bootcamp:
+Veja os projetos e desafios que completei durante o bootcamp e a formação:
+- [Desafios de Módulo](https://github.com/rhayssakramer/formacao-azure-fundamentals/tree/main/Desafios-de-modulo/Modulo%2303)
 - [Desafio 1: Localizador de Serviços por Categoria](https://github.com/rhayssakramer/formacao-azure-fundamentals/tree/main/Desafio%2301%20-%20Cria%C3%A7%C3%A3o%20de%20Guia%20de%20Localizador%20de%20Servi%C3%A7os%20por%20Categoria%20na%20Azure)
 - [Desafio 2: Criação de VM em Azure](https://github.com/rhayssakramer/formacao-azure-fundamentals/tree/main/Desafio%2302%20-%20Cria%C3%A7%C3%A3o%20de%20VM%20em%20Azure)
 - [Desafio 3: Configurando uma instância de Banco de Dados na Azure](https://github.com/rhayssakramer/formacao-azure-fundamentals/tree/main/Desafio%2303%20-%20Configurando%20uma%20inst%C3%A2ncia%20de%20Banco%20de%20Dados%20na%20Azure)
