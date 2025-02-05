@@ -42,12 +42,12 @@ Veja os projetos e desafios que completei durante o bootcamp e a formação:
 ## ▶️ Conclusão
 Este guia serve como repositório de estudos, desafios e projetos da Bootcamp Microsoft Azure Essentials e da Formação Microsoft AZ-900 Certification. Explore os recursos compartilhados necessários para atender às suas necessidades de nuvem.
 
-## 🔗 Créditos
+## 🖋️ Créditos
 Este repositório foi desenvolvido como guia de estudos da [Bootcamp Microsoft Azure Essentials](https://www.dio.me/bootcamp/microsoft-azure-essentials?ref=AFOXWYVRXGV9) e da [Formação Microsoft AZ-900 Certification](https://web.dio.me/track/formacao-microsoft-az-900-certification), para avaliar o ensinado na bootcamp e formação sobre Azure com finalidade de obter Certificação AZ-900.
 
 *Nota: Este projeto é apenas para fins educacionais e não possui nenhuma afiliação oficial com a franquia DIO ou suas empresas associadas.*
 
-## 👩🏼‍💻 Autoria:
+### 👩🏼‍💻 Autora:
 <table style="border=0">
   <tr>
     <td align="left">
@@ -60,4 +60,4 @@ Este repositório foi desenvolvido como guia de estudos da [Bootcamp Microsoft A
   </tr>
 </table>
 
-### <div align="center">Feito por <a href="https://github.com/rhayssakramer">@devrhakramer</a></div>
+<div align="center"><a href="https://github.com/rhayssakramer"><img src="https://github.com/user-attachments/assets/27f933bf-6bb5-418d-aa0f-842b65185a82" width="130"></a></div>
