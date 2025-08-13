@@ -1,6 +1,13 @@
-## ☁️ Formação Azure Fundamentals
+<img src="./img/topo.png">
 
-Este repositório corresponde ao compliado de conteúdos utilizados na [Bootcamp Microsoft Azure Essentials](https://www.dio.me/bootcamp/microsoft-azure-essentials?ref=AFOXWYVRXGV9) e na [Formação Microsoft AZ-900 Certification](https://web.dio.me/track/formacao-microsoft-az-900-certification). Aqui você irá encontrar meus desafios, projetos, recursos e links úteis utilizados para concluir a bootcamp e a formação.
+# ☁️ Formação Azure Fundamentals
+
+<div>
+  <img src="./img/az-900.png" align="left" width="80">
+  <span align="right" align-items="justify">
+  Este repositório corresponde ao compliado de conteúdos utilizados na [Bootcamp Microsoft Azure Essentials](https://www.dio.me/bootcamp/microsoft-azure-essentials?ref=AFOXWYVRXGV9) e na [Formação Microsoft AZ-900 Certification](https://web.dio.me/track/formacao-microsoft-az-900-certification). Aqui você irá encontrar meus desafios, projetos, recursos e links úteis utilizados para concluir a bootcamp e a formação.
+  </span>
+</div>
 
 ### 🗂️ O que você encontrará aqui?
 Este repositório está organizado para armazenar e gerenciar todos os materiais do bootcamp e da formação, assim como os desafios, links úteis, estudos e outros recursos.
@@ -60,4 +67,4 @@ Este repositório foi desenvolvido como guia de estudos da Bootcamp Microsoft Az
   </tr>
 </table>
 
-<div align="center"><a href="https://github.com/rhayssakramer"><img src="https://github.com/user-attachments/assets/27f933bf-6bb5-418d-aa0f-842b65185a82" width="130"></a></div>
+<div align="center"><a href="https://github.com/rhayssakramer"><img src="https://github.com/rhayssakramer/rhayssakramer/blob/main/img/rodape.png" width="130"></a></div>
