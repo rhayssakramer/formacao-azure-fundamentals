@@ -83,4 +83,4 @@ Este projeto foi desenvolvido como parte de Desafio de Projeto da [Bootcamp Micr
   </tr>
 </table>
 
-### <div align="center">Feito por <a href="https://github.com/rhayssakramer">@devrhakramer</a></div>
+<div align="center"><a href="https://github.com/rhayssakramer"><img src="https://github.com/rhayssakramer/rhayssakramer/blob/main/img/rodape.png"></a></div>
