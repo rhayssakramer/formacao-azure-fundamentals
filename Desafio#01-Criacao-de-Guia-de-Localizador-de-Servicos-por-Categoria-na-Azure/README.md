@@ -39,7 +39,7 @@ O objetivo deste projeto é criar um guia passo a passo de como localizar e aces
 - Criar um guia visual e organizado de localização de serviços.
 - Fornecer instruções práticas para acessar e gerenciar serviços essenciais do Azure.
 
-#### 📌 Pré-requesitos
+#### 📌 Pré-requisitos
 1. Conta ativa da Microsoft (Outlook, Hotmail ou Office 365).
 2. Acesso ao [Portal do Azure](https://portal.azure.com/).
 3. Conhecimento básico em computação em nuvem é recomendado, mas não obrigatório.
