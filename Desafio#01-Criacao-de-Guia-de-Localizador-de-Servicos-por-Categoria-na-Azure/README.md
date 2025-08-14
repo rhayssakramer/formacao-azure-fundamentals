@@ -6,7 +6,7 @@ Este repositório corresponde ao Desafio #01 da [Bootcamp Microsoft Azure Essent
 - [Introdução](https://github.com/rhayssakramer/guiaLocalizadorServicosAzure/#introdução)
 - [Tecnologias Utilizadas]()
 - [Desafios de Projeto]()
-- [Óbjetivos]()
+- [Objetivos]()
   - [x] [Pré-requisitos]()
   - [x] [Estrutura do Repositório]()
   - [x] [Ferramentas e Tecnologias]()
