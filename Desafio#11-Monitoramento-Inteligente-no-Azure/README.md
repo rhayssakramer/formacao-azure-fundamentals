@@ -10,6 +10,7 @@ Este repositório corresponde ao Desafio #11 da [Bootcamp Microsoft Azure Essent
   - [x] [Pré-requisitos]()
   - [x] [Estrutura do Repositório]()
   - [x] [Ferramentas e Tecnologias]()
+  - [x] [O que será feito?]()
   - [x] [Passo a Passo]()
 - [Azure Monitor]()
 - [Service Health do Azure]()
@@ -60,6 +61,13 @@ Desafio#11-Monitoramento-Inteligente/
 - Visual Studio Code
 - Git
 - GitHub
+
+#### 🧠 O que será feito?
+Neste projeto, você irá:
+- Configurar e explorar **Azure Monitor** para acompanhar métricas, logs e insights dos recursos.
+- Utilizar **Service Health** para monitorar o estado dos serviços do Azure e receber alertas sobre incidentes ou manutenção programada.
+- Revisar recomendações do **Azure Advisor** para otimizar desempenho, segurança e custos.
+- Aplicar boas práticas de monitoramento inteligente, garantindo maior eficiência e visibilidade sobre os recursos em nuvem.
 
 #### 🚀 Passo a Passo
 1. Acesse sua Conta no Azure
