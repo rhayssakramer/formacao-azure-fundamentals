@@ -1,4 +1,5 @@
 ## ⚙️ Ferramentas de Implantação no Azure
+
 Este repositório corresponde ao Desafio #10 da [Bootcamp Microsoft Azure Essentials](https://www.dio.me/bootcamp/microsoft-azure-essentials?ref=AFOXWYVRXGV9) e da [Formação Microsoft AZ-900 Certification](https://web.dio.me/track/formacao-microsoft-az-900-certification) para fornecer instruções sobre as Ferramentas de Implantação no Microsoft Azure.
 
 ## 📑 Índice
@@ -9,6 +10,7 @@ Este repositório corresponde ao Desafio #10 da [Bootcamp Microsoft Azure Essent
   - [x] [Pré-requisitos]()
   - [x] [Estrutura do Repositório]()
   - [x] [Ferramentas e Tecnologias]()
+  - [x] [O que será feito?]()
   - [x] [Passo a Passo]()
 - [Acessando o Shell no Azure]()
 - [Área de Automação no Azure]()
@@ -63,6 +65,14 @@ Desafio#10-Ferramentas-de-Implantacao/
 - Visual Studio Code
 - Git
 - GitHub
+
+#### 🧠 O que será feito?
+Neste projeto, você irá:
+- Explorar e utilizar o `Azure Cloud Shell` para gerenciar recursos do Azure sem necessidade de instalar ferramentas locais.
+- Automatizar tarefas recorrentes e processos administrativos com `Azure Automation`, `Runbooks` e `Logic Apps`.
+- Criar e implantar recursos no Azure usando `Azure Bicep`, aplicando infraestrutura como código (IaC) de forma simples e modular.
+- Conectar, monitorar e gerenciar ambientes híbridos e multi-nuvem com `Azure Arc`, garantindo consistência, segurança e governança centralizada.
+- Aplicar boas práticas de monitoramento, automação e gestão de recursos para otimizar eficiência e reduzir custos.
 
 #### 🚀 Passo a Passo
 1. Acesse sua Conta no Azure
