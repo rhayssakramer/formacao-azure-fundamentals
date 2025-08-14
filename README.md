@@ -5,7 +5,7 @@
 <div>
   <img src="./img/az-900.png" align="left" width="80">
   <span align="right" align-items="justify">
-  Este repositório corresponde ao compliado de conteúdos utilizados na [Bootcamp Microsoft Azure Essentials](https://www.dio.me/bootcamp/microsoft-azure-essentials?ref=AFOXWYVRXGV9) e na [Formação Microsoft AZ-900 Certification](https://web.dio.me/track/formacao-microsoft-az-900-certification). Aqui você irá encontrar meus desafios, projetos, recursos e links úteis utilizados para concluir a bootcamp e a formação.
+  Este repositório corresponde ao compliado de conteúdos utilizados na <a href="https://www.dio.me/bootcamp/microsoft-azure-essentials">Bootcamp Microsoft Azure</a> e na <a href="https://web.dio.me/track/formacao-microsoft-az-900-certification">Formação Microsoft AZ-900 Certification</a>. Aqui você irá encontrar meus desafios, projetos, recursos e links úteis utilizados para concluir a bootcamp e a formação.
   </span>
 </div>
 
@@ -49,12 +49,12 @@ Veja os projetos e desafios que completei durante o bootcamp e a formação:
 ## ▶️ Conclusão
 Este guia serve como repositório de estudos, desafios e projetos da [Bootcamp Microsoft Azure Essentials](https://www.dio.me/bootcamp/microsoft-azure-essentials?ref=AFOXWYVRXGV9) e da [Formação Microsoft AZ-900 Certification](https://web.dio.me/track/formacao-microsoft-az-900-certification). Explore os recursos compartilhados necessários para atender às suas necessidades de nuvem.
 
-## 🖋️ Créditos
-Este repositório foi desenvolvido como guia de estudos da Bootcamp Microsoft Azure Essentials e da Formação Microsoft AZ-900 Certification, para avaliar o ensinado na bootcamp e formação sobre Azure com finalidade de obter Certificação AZ-900.
+## 🔗 Créditos
+Este repositório foi desenvolvido como guia de estudos da [Bootcamp Microsoft Azure Essentials](https://www.dio.me/bootcamp/microsoft-azure-essentials?ref=AFOXWYVRXGV9) e da [Formação Microsoft AZ-900 Certification](https://web.dio.me/track/formacao-microsoft-az-900-certification), para avaliar o ensinado na bootcamp e formação sobre Azure com finalidade de obter Certificação AZ-900.
 
 *Nota: Este projeto é apenas para fins educacionais e não possui nenhuma afiliação oficial com a franquia DIO ou suas empresas associadas.*
 
-### 👩🏼‍💻 Autora:
+## 👩🏼‍💻 Autora:
 <table style="border=0">
   <tr>
     <td align="left">
