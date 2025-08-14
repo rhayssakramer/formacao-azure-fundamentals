@@ -88,7 +88,7 @@ Neste projeto, você irá:
    - Configure alertas e políticas de segurança.
    - Analise recomendações do Advisor para otimizar recursos e reduzir custos.
 
-### 1. Azure Monitor 💻
+### 💻 Azure Monitor
 O `Azure Monitor` é uma plataforma abrangente de monitoramento que fornece insights completos sobre o desempenho e a integridade dos recursos do Azure. Ele coleta, analisa e atua sobre dados de telemetria de seus aplicativos e recursos para ajudar a manter e melhorar a disponibilidade e o desempenho.
 
 - **Acesse o Portal do Azure:** faça login no [Portal do Azure](https://portal.azure.com/). No menu de navegação à esquerda, selecione `Monitor` ou use a barra de pesquisa para encontrar `Azure Monitor`.  
@@ -100,7 +100,7 @@ O `Azure Monitor` é uma plataforma abrangente de monitoramento que fornece insi
 <img src="https://github.com/rhayssakramer/formacao-azure-fundamentals/blob/main/Desafio%2311-Monitoramento-Inteligente-no-Azure/img/img3.png" alt="Imagem 3" width="550">
 
 
-### 2. Service Health do Azure 🩺
+### 🩺 Service Health do Azure
 O `Service Health do Azure` oferece informações sobre o status dos serviços do Azure e possíveis problemas que podem afetar seus recursos. Ele fornece atualizações em tempo real sobre o estado dos serviços e eventos que possam impactar a disponibilidade e a performance dos recursos.
 
 - **Acesse o Portal do Azure:** faça login no [Portal do Azure](https://portal.azure.com/). No menu de navegação à esquerda, selecione `Service Health` ou use a barra de pesquisa para encontrar `Service Health`.  
@@ -109,7 +109,7 @@ O `Service Health do Azure` oferece informações sobre o status dos serviços d
 - **Visualize o Status e Eventos:** aqui você pode visualizar o estado atual dos serviços, histórico de incidentes e programações de manutenção. Configure alertas para ser notificado sobre quaisquer eventos que possam impactar seus recursos.  
 <img src="https://github.com/rhayssakramer/formacao-azure-fundamentals/blob/main/Desafio%2311-Monitoramento-Inteligente-no-Azure/img/img5.png" alt="Imagem 5" width="350">
 
-### 3. Azure Advisor 🔍
+### 🔍 Azure Advisor
 O `Azure Advisor` é um serviço de recomendação que fornece conselhos personalizados para ajudar a otimizar o uso de recursos do Azure. Ele analisa suas configurações e práticas recomendadas, fornecendo recomendações para melhorar a segurança, o desempenho e a eficiência de custo.
 
 - **Acesse o Portal do Azure:** faça login no [Portal do Azure](https://portal.azure.com/). No menu de navegação à esquerda, selecione `Advisor` ou use a barra de pesquisa para encontrar `Azure Advisor`.  
@@ -120,7 +120,7 @@ Analise as recomendações e siga as orientações para aplicar melhorias.
 
 **Certifique-se de sempre definir regras de segurança e monitoramento apropriadas para proteger seus recursos e otimizar o gerenciamento de custos.**
 
-### 🗒️ Recursos Adicionais
+## 🗒️ Recursos Adicionais
 - [Documentação Oficial do Microsoft Azure](https://docs.microsoft.com/azure)
 - [Tutoriais de Introdução ao Azure](https://docs.microsoft.com/learn/paths/azure-fundamentals/)
 
