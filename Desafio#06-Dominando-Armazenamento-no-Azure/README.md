@@ -130,19 +130,19 @@ azcopy copy 'caminho/local/do/arquivo' 'https://<sua-conta>.file.core.windows.ne
 ><img src="https://github.com/rhayssakramer/formacao-azure-fundamentals/blob/main/Desafio%2306-Dominando-Armazenamento-no-Azure/img/img21.png" alt="Imagem 21" width="550">  
 ><img src="https://github.com/rhayssakramer/formacao-azure-fundamentals/blob/main/Desafio%2306-Dominando-Armazenamento-no-Azure/img/img22.png" alt="Imagem 22" width="550">      
 
-**Certifique-se de sempre definir regras de segurança e monitoramento apropriadas para proteger seus recursos e otimizar o gerenciamento de custos.** 
-
-### 🗒️ Recursos Adicionais
-- [Documentação Oficial do Microsoft Azure](https://docs.microsoft.com/azure)
-- [Tutoriais de Introdução ao Azure](https://docs.microsoft.com/learn/paths/azure-fundamentals/)
-
-*Dica: Sempre defina regras de segurança e monitoramento para proteger os recursos e controlar custos.*
+**Certifique-se de sempre definir regras de segurança e monitoramento apropriadas para proteger seus recursos e otimizar o gerenciamento de custos.**
 
 ### 💡 Boas Práticas de Segurança
 - Crie regras de acesso e NSG (Network Security Group).
 - Configure alertas e monitoramento. 
 - Revise periodicamente as regras de segurança.
 - Evite exposição de dados sensíveis e acessos não autorizados.
+
+## 🗒️ Recursos Adicionais
+- [Documentação Oficial do Microsoft Azure](https://docs.microsoft.com/azure)
+- [Tutoriais de Introdução ao Azure](https://docs.microsoft.com/learn/paths/azure-fundamentals/)
+
+*Dica: Sempre defina regras de segurança e monitoramento para proteger os recursos e controlar custos.*
 
 ## 🔗 Créditos
 Este guia serve como repositório de estudos, desafios e projetos da [Bootcamp Microsoft Azure Essentials](https://www.dio.me/bootcamp/microsoft-azure-essentials?ref=AFOXWYVRXGV9) e da [Formação Microsoft AZ-900 Certification](https://web.dio.me/track/formacao-microsoft-az-900-certification), para avaliar o ensinado sobre introdução básica para fornecer instruções sobre como configurar Contas de Armazenamento dentro do portal do Microsoft Azure.
