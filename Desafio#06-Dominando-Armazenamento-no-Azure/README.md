@@ -1,12 +1,81 @@
-## ⚙️ Dominando Armazenamento no Azure
+# 🏗️ Dominando Armazenamento no Azure
 
 Este repositório corresponde ao Desafio #06 da [Bootcamp Microsoft Azure Essentials](https://www.dio.me/bootcamp/microsoft-azure-essentials?ref=AFOXWYVRXGV9) e da [Formação Microsoft AZ-900 Certification](https://web.dio.me/track/formacao-microsoft-az-900-certification) para fornecer instruções sobre como configurar Contas de Armazenamento dentro do portal do Microsoft Azure.
 
-### 1. Faça login na sua Conta no Azure ▶️
+## 📑 Índice
+- [Introdução]()
+- [Tecnologias Utilizadas]()
+- [Desafio de Projeto]()
+- [Objetivos]()
+  - [x] [Pré-requisitos]()
+  - [x] [Estrutura do Repositório]()
+  - [x] [Ferramentas e Tecnologias]()
+  - [x] [O que será feito?]()
+- [Acesse sua Conta no Azure]()
+- [Acesse sua Conta no Azure]()
+- [Configure a Conta de Armazenamento]()
+- [Criar um Compartilhamento de Arquivos]()
+- [Migrar Dados para o Azure]()
+- [Boas Práticas de Segurança]()
+- [Recursos Adicionais]()
+- [Créditos]()
+- [Autora]()
+
+### ▶️ Introdução
+Este guia fornece instruções passo a passo para configurar Contas de Armazenamento no Azure, criando compartilhamentos de arquivos e migrando dados para a nuvem de forma organizada e segura.
+
+### 💻 Tecnologias Utilizadas
+
+| Linguagens de Programação | Ferramentas e Tecnologias |
+| :-----------------: | :-----------------------: |
+| <img height="40" src="https://skillicons.dev/icons?i=py"> | <img height="40" src="https://skillicons.dev/icons?i=github"> <img height="40" src="https://skillicons.dev/icons?i=git"> <img height="40" src="https://skillicons.dev/icons?i=vscode"> <img height="40" src="https://skillicons.dev/icons?i=azure">
+
+### 🎯 Desafio de Projeto
+- Configurar Contas de Armazenamento no portal do Azure.
+- Criar compartilhamentos de arquivos.
+- Migrar dados do ambiente local para o Azure usando AzCopy.
+- Aplicar boas práticas de segurança e monitoramento.
+
+### 🛠️ Objetivos
+- Aprender a criar e configurar contas de armazenamento.
+- Organizar compartilhamentos de arquivos.
+- Migrar dados para o Azure com segurança.
+- Seguir boas práticas de gestão e monitoramento de recursos.
+
+#### 📌 Pré-requisitos
+1. Conta ativa no [Azure](https://portal.azure.com/)
+2. Conhecimentos básicos em nuvem
+3. Navegador atualizado
+
+#### 📁 Estrutura do Repositório
+```
+Desafio#06-Dominando-Armazenamento-no-Azure/
+│
+├── img/                # Imagens do passo a passo
+├── README.md           # Guia completo do desafio
+└── documentação/       # Links e PDFs adicionais (opcional)
+```
+
+#### ⚙️ Ferramentas e Tecnologias
+- Microsoft Azure
+- Visual Studio Code
+- Git
+- GitHub
+- AzCopy
+
+#### 🧠 O que será feito?
+- Criar contas de armazenamento no Azure
+- Configurar replicação e proteção de dados
+- Criar compartilhamentos de arquivos
+- Migrar dados usando AzCopy
+- Aplicar regras de segurança e monitoramento
+
+### 🌐 Acesse sua Conta no Azure
 
 Se você ainda não tem uma conta no Azure, você vai precisar de uma! Visite o [Portal do Azure](https://portal.azure.com/) faça seu cadastro gratuitamente e siga o processo para criar uma conta. Após o cadastro, faça login com sua conta no Portal.
 
-### 2. Configure a Conta de Armazenamento ➕
+### 🔨 Configure a Conta de Armazenamento 
+Configurações recomendadas:
 **Nome da Conta:** Escolha um nome único para sua conta de armazenamento.  
 **Região:** Selecione a região mais próxima para melhor performance.  
 **Tipo de Conta:** Escolha "Armazenamento General Purpose v2".  
@@ -23,8 +92,7 @@ Se você ainda não tem uma conta no Azure, você vai precisar de uma! Visite o 
 ><img src="https://github.com/rhayssakramer/formacao-azure-fundamentals/blob/main/Desafio%2306-Dominando-Armazenamento-no-Azure/img/img7.png" alt="Imagem 7" width="550">  
 ><img src="https://github.com/rhayssakramer/formacao-azure-fundamentals/blob/main/Desafio%2306-Dominando-Armazenamento-no-Azure/img/img8.png" alt="Imagem 8" width="550">  
 
-### 3. Criar um Compartilhamento de Arquivos 📁
-
+### 📂 Criar um Compartilhamento de Arquivos
 **Acesse Sua Conta de Armazenamento:** No portal, vá para `Recursos` e selecione sua conta de armazenamento.  
 **Criar um Compartilhamento de Arquivos:** No menu de `Serviços`, clique em `Compartilhamento de Arquivos`. Clique em `Adicionar compartilhamento de arquivos`. Nomeie o compartilhamento e defina o tamanho, depois clique em `Criar`.
 
@@ -36,8 +104,10 @@ Se você ainda não tem uma conta no Azure, você vai precisar de uma! Visite o 
 ><img src="https://github.com/rhayssakramer/formacao-azure-fundamentals/blob/main/Desafio%2306-Dominando-Armazenamento-no-Azure/img/img13.png" alt="Imagem 13" width="550">
 ><img src="https://github.com/rhayssakramer/formacao-azure-fundamentals/blob/main/Desafio%2306-Dominando-Armazenamento-no-Azure/img/img14.png" alt="Imagem 14" width="550">
 
-### 4. Migrar Dados para o Azure ☁️
-**Criar um projeto:** Antes de tudo deve criar um projeto de migração para Azure.  
+### ☁️ Migrar Dados para o Azure
+1. Criar um projeto:** Antes de tudo deve criar um projeto de migração para Azure.  
+2. Instale o [AzCopy](https://docs.microsoft.com/azure/storage/common/storage-use-azcopy-v10).
+3. Autentique e copie arquivos:
 
 ![Imagem 15](https://github.com/rhayssakramer/formacao-azure-fundamentals/blob/main/Desafio%2306-Dominando-Armazenamento-no-Azure/img/img15.png)
 
@@ -62,19 +132,24 @@ azcopy copy 'caminho/local/do/arquivo' 'https://<sua-conta>.file.core.windows.ne
 
 **Certifique-se de sempre definir regras de segurança e monitoramento apropriadas para proteger seus recursos e otimizar o gerenciamento de custos.** 
 
-### ▶️ Conclusão
-Este guia serve como uma introdução básica para fornecer instruções sobre como configurar Contas de Armazenamento dentro do portal do Microsoft Azure. Explore outros recursos conforme necessário para atender às suas necessidades de nuvem.
-
 ### 🗒️ Recursos Adicionais
 - [Documentação Oficial do Microsoft Azure](https://docs.microsoft.com/azure)
 - [Tutoriais de Introdução ao Azure](https://docs.microsoft.com/learn/paths/azure-fundamentals/)
 
+*Dica: Sempre defina regras de segurança e monitoramento para proteger os recursos e controlar custos.*
+
+### 💡 Boas Práticas de Segurança
+- Crie regras de acesso e NSG (Network Security Group).
+- Configure alertas e monitoramento. 
+- Revise periodicamente as regras de segurança.
+- Evite exposição de dados sensíveis e acessos não autorizados.
+
 ## 🔗 Créditos
-Este projeto foi desenvolvido como parte de Desafio de Projeto da [Bootcamp Microsoft Azure Essentials](https://www.dio.me/bootcamp/microsoft-azure-essentials?ref=AFOXWYVRXGV9) e da [Formação Microsoft AZ-900 Certification](https://web.dio.me/track/formacao-microsoft-az-900-certification), para avaliar o ensinado no curso de Conceito Iniciais de Cloud com Azure.
+Este guia serve como repositório de estudos, desafios e projetos da [Bootcamp Microsoft Azure Essentials](https://www.dio.me/bootcamp/microsoft-azure-essentials?ref=AFOXWYVRXGV9) e da [Formação Microsoft AZ-900 Certification](https://web.dio.me/track/formacao-microsoft-az-900-certification), para avaliar o ensinado sobre introdução básica para fornecer instruções sobre como configurar Contas de Armazenamento dentro do portal do Microsoft Azure.
 
 *Nota: Este projeto é apenas para fins educacionais e não possui nenhuma afiliação oficial com a franquia DIO ou suas empresas associadas.*
 
-## 👩🏼‍💻 Autoria:
+## 👩🏼‍💻 Autora:
 <table style="border=0">
   <tr>
     <td align="left">
