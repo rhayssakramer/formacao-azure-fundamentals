@@ -24,7 +24,7 @@ Neste desafio, você irá conhecer e utilizar ferramentas de implantação no Az
 
 | Linguagens de Programação | Ferramentas e Tecnologias |
 | :-----------------: | :-----------------------: |
-| <img height="40" src="https://skillicons.dev/icons?i=ps"> | <img height="40" src="https://skillicons.dev/icons?i=github"> <img height="40" src="https://skillicons.dev/icons?i=git"> <img height="40" src="https://skillicons.dev/icons?i=vscode"> <img height="40" src="https://skillicons.dev/icons?i=azure">
+| | <img height="40" src="https://skillicons.dev/icons?i=github"> <img height="40" src="https://skillicons.dev/icons?i=git"> <img height="40" src="https://skillicons.dev/icons?i=vscode"> <img height="40" src="https://skillicons.dev/icons?i=azure">
 
 ### 🎯 Desafio de Projeto
 - Explorar e utilizar o **Azure Cloud Shell** para gerenciamento de recursos.
@@ -125,7 +125,6 @@ A `Área de Automação no Azure` é um conjunto de ferramentas e serviços que 
 <img src="https://github.com/rhayssakramer/formacao-azure-fundamentals/blob/main/Desafio%2310-Ferramentas-de-Implantacao-no-Azure/img/img7.png" alt="Imagem 7" width="550">  
 
 <img src="https://github.com/rhayssakramer/formacao-azure-fundamentals/blob/main/Desafio%2310-Ferramentas-de-Implantacao-no-Azure/img/img8.png" alt="Imagem 8" width="550">  
-
 
 Essas ferramentas ajudam a melhorar a eficiência e a consistência na administração de ambientes Azure, permitindo a criação de soluções personalizadas para suas necessidades.
 
