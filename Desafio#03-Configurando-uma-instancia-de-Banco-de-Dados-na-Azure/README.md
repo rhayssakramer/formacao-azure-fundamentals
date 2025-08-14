@@ -16,10 +16,10 @@ Este repositório corresponde ao Desafio #03 da [Bootcamp Microsoft Azure Essent
 - [Créditos]()
 - [Autora]()
 
-## ▶️ Introdução
+### ▶️ Introdução
 O Microsoft Azure oferece serviços de Banco de Dados na nuvem, permitindo criar, gerenciar e escalar bancos de dados de forma segura e eficiente. Este guia tem como objetivo ensinar como configurar uma instância de SQL Database no Azure, desde a criação da conta até a conexão com ferramentas externas como SSMS ou Azure Data Studio. Ele é ideal para quem está iniciando na nuvem e deseja entender os conceitos básicos de banco de dados no Azure.
 
-## 💻 Tecnologias Utilizadas
+### 💻 Tecnologias Utilizadas
 
 | Linguagens de Programação | Ferramentas e Tecnologias |
 | :-----------------: | :-----------------------: |
