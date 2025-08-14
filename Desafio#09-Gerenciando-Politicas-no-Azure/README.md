@@ -1,4 +1,5 @@
 ## ⚙️ Gerenciando Políticas no Azure
+
 Este repositório corresponde ao Desafio #09 da [Bootcamp Microsoft Azure Essentials](https://www.dio.me/bootcamp/microsoft-azure-essentials?ref=AFOXWYVRXGV9) e da [Formação Microsoft AZ-900 Certification](https://web.dio.me/track/formacao-microsoft-az-900-certification) para fornecer instruções sobre como Gerenciar Políticas no Microsoft Azure.
 
 ## 📑 Índice
@@ -46,7 +47,7 @@ Explorar e aplicar políticas de governança no Azure, com foco em:
 - Noções básicas de governança em nuvem
 - Conhecimentos introdutórios sobre `Azure Policy`
 
-### 📁 Estrutura do Repositório
+#### 📁 Estrutura do Repositório
 ```
 Desafio#09-Gerenciando-Politicas-no-Azure/
 │
@@ -103,7 +104,7 @@ Para acessar e utilizar o Portal de Confiança, siga estes passos:
 
 ![Imagem 1](https://github.com/rhayssakramer/formacao-azure-fundamentals/blob/main/Desafio%2309-Gerenciando-Politicas-no-Azure/img/img1.png)
 
-## 🔮 Preview do Azure
+### 🔮 Preview do Azure
 O Preview do Azure permite que você experimente novos serviços e funcionalidades antes de serem lançados oficialmente.   
 
 Para começar a usar um recurso em Preview, siga estes passos:
@@ -157,7 +158,7 @@ O `Gerenciamento de Políticas no Azure` ajuda a garantir que os recursos esteja
 
 - **Revise e Salve:** revise os detalhes e clique em `Create` para aplicar a política.
 
-### 🗒️ Recursos Adicionais
+## 🗒️ Recursos Adicionais
 - [Documentação Oficial do Microsoft Azure](https://docs.microsoft.com/azure)
 - [Tutoriais de Introdução ao Azure](https://docs.microsoft.com/learn/paths/azure-fundamentals/)
 
